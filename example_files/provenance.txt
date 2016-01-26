@@ -1,0 +1,14 @@
+Commands used to generate example data sets
+
+---------------- example.sam & example.bam ---------------------------
+
+## download two 1000 Genomes bam files
+wget ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase1/data/HG00100/alignment/HG00100.chrom20.ILLUMINA.bwa.GBR.low_coverage.20101123.bam
+wget ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase1/data/HG00103/alignment/HG00103.chrom20.ILLUMINA.bwa.GBR.low_coverage.20101123.bam
+
+## extract 1000 lines including the header from one, then just 1000 line from the other to a sam file
+bamtools view -h HG00100.chrom20.ILLUMINA.bwa.GBR.low_coverage.20101123.bam > example.sam
+bamtools view -h HG00103.chrom20.ILLUMINA.bwa.GBR.low_coverage.20101123.bam >> example.sam
+
+## convert back to bam
+samtools view -Shb example.sam > example.bam
