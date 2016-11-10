@@ -116,7 +116,24 @@ will match '2010', '201K', '201j', etc, but not '2012', '2016', or '2019'. In co
 > [TODO] Exercise(s) testing understanding of inverted sets
 
 ## 2. Tokens and Wildcards
+In the intorductory example we introduced the `\d` token, used to represent any single digit. In this regard, the two regular expressions below are equivalent.
 
+```
+[0-9]
+\d
+```
+
+The table below describes the tokens available for use in regex.
+
+Token | Matches                                   | Set Equivalent |
+------|-------------------------------------------|----------------|
+`\d`  | Any digit                                 | `[0-9]`        |
+`\s`  | Any whitespace character (space, tab, newlines) | `[ \t\n\r\f]`   |
+`\w`  | Any 'word character' - letters, numbers, and underscore | `[A-Za-z0-9_]` |
+`\b`  | A word boundary character                 | `[^\w]`*       |
+`\D`  | The inverse of \d i.e. any character except a digit | `[^0-9]` |
+`\S`  | Any non-whitespace character              | `[^ \t\n\r\f]` |
+`\W`  | Any non-word character                    | `[^A-Za-z0-9_]`|
 
 ## Recommended Links
 - [regular-expressions.info](http://www.regular-expressions.info) - the definitive guide to regex.
