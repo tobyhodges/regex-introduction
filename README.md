@@ -50,3 +50,5 @@ excellent [regular-expressions.info](http://www.regular-expressions.info).
 These materials have been developed from a short workshop originally hosted by
 the authors at EMBL in January 2016. They will be first used in their more developed 
 new state at a half-day course taking place at EMBL on 23rd March 2017.
+
+<img src="./images/BioIT_logo.jpeg" alt="EMBL Bio-IT Project" style="width: 200px;">
