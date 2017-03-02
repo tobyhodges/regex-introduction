@@ -56,4 +56,96 @@ Regular expressions provide the capability to identify and store parts of a matc
 
 In a regex, a capture group is established in with `()` parentheses, and referred to in the replacement string with `\N`, where `N` is an integer (1-9) signifying which group in the regex should be substituted in at the specified position. Captured groups are counted from left to right. This should be made clearer with an example below:
 
+```
+group_1, group_2, group_3
+```
 
+In this case, we want to rearrange the parts of the string above, so that we have 'group 3' first, followed by 'group_1' twice, and then 'group_2'. Using what we've already learned, we can match each 'group_x' substring with the one of the regexes below
+
+```
+group_\d
+
+# or
+
+group_[123]
+
+# or
+
+group_[0-9]
+```
+
+so we could match the whole string as follows:
+
+```
+group_\d, group_\d, group_\d
+```
+
+However, in order to rearrange the parts in a replacement string, we need to capture them individually with `()` parentheses. Using the following regex:
+
+```
+(group_\d), (group_\d), (group_\d)
+```
+
+we could create a rearranged replacement string with
+
+```
+\3, \1, \1, \2
+
+# returns "group_3, group_1, group_1, group_2"
+```
+
+or, to wrap each group in quotation marks:
+
+```
+"\1", "\2", "\3"
+
+# returns "group_1", "group_2", "group_3"
+```
+
+Using this approach, you can capture up to nine different groups and re-use as many of them as you like in your replacement string. This is really helpful when reformatting large files e.g. to remove additional characters, which can otherwise be very fiddly and time-consuming.
+
+So, returning to our FASTA sequence header example, introduced at the beginning of this section, how can we use capture groups to reach our aim of 
+attaching the species names to the sequence IDs, removing the quotation marks along the way? First, we should identify the groups that we need to capture in the regex matching the species names:
+
+```
+[A-Z][a-z]+ [a-z]+ # matches the species names
+
+([A-Z][a-z]+) ([a-z]+) # captures genus & species separately as \1 and \2
+```
+
+Great, but now we need to add the quotation marks and leading space to our regex, so that we can remove/replace them when performing the substitution for each matched line. Adding this punctuation to the regex, gives us:
+
+```
+\s"([A-Z][a-z]+) ([a-z]+)"
+```
+
+Note, that we don't need to reuse the punctuation during replacement, so we haven't wrapped them in `()` parentheses. Now we can define our replacement string to add underscores before and in between the genus and species names:
+
+```
+_\1_\2
+```
+
+Using this pair of regex and replacement string should convert the headers from the FASTA snippet above:
+
+```
+>GX3597KLM "Homo sapiens"
+>GK9113FGH "Homo sapiens"
+>GF7745PUP "Mus musculus"
+>GD8332BAG "Homo sapiens"
+>GK3091TFB "Mus musculus"
+>GK3141YRK "Pan troglodytes"
+```
+
+to the desired format:
+
+```
+>GX3597KLM_Homo_sapiens
+>GK9113FGH_Homo_sapiens
+>GF7745PUP_Mus_musculus
+>GD8332BAG_Homo_sapiens
+>GK3091TFB_Mus_musculus
+>GK3141YRK_Pan_troglodytes
+```
+
+> #### Exercise 5.1
+> [TODO] Exercise(s) testing understanding of capture groups and replacement strings
