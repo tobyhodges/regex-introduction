@@ -9,7 +9,7 @@ In the introductory example we introduced the `\d` token, used to represent any 
 
 ### Tokens and the Backslash
 
-Tokens in general are shorter form ways of describing standard, commonly-used sharacter sets/classes. The table below describes the tokens available for use in regex.
+Tokens in general are shorter form ways of describing standard, commonly-used character sets/classes. The table below describes the tokens available for use in regex.
 
 Token | Matches                                                 | Set Equivalent |
 ------|---------------------------------------------------------|----------------|
