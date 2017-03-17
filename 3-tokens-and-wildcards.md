@@ -26,7 +26,7 @@ Notice that these tokens have a common sytax - a backslash character '\' followe
 This even extends to far as to the backslash character itself - you can specify that you want to match a literal backslash, by preceding that backslash character with - you guessed it! - a backslash i.e. with `\\`.
 
 > #### Exercise 3.1
-> Exercise(s) testing understanding of tokens
+> Match dates of the form 31.01.2017 (DAY-MONTH-YEAR).
 
 ### Word Boundaries
 
@@ -48,6 +48,7 @@ we ensure that we will only get matches to 'chromosome1' and 'chromosome2' as wh
 
 > #### Exercise 3.2
 > Multiple-choice exercise on word boundaries
+> Additionally, refine the regex from the previous exercise to prevent matching strings with preceeding or succeeding digits, such as 131.01.20171.
 
 ### The `.` Wildcard
 
@@ -65,4 +66,4 @@ For example, in the example SAM file, 'example.sam', there are several header li
 to capture only the header lines. A similar approach can also be useful when searching for particular primer/adapter sequences in high-throughput DNA sequencing data.
 
 > #### Exercise 3.3
-> Anchoring exercise
+> Count how many sequences in example_protein.fasta are of transcript_biotype "protein_coding". Hint: sequence records have a header that start with the character "`>`".
