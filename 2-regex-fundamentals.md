@@ -1,11 +1,11 @@
 # 2. Regex Fundamentals
 ### Basic String Matching
-You can still search for a literal string i.e. the exact letter(s)/word(s) that you want to find. So, to find the gene name 'hdac1', you would type:
+You can still search for a literal string i.e. the exact letter(s)/word(s) that you want to find. So, to find the gene name 'HDAC1', you would type:
 
 ```
-hdac1
+HDAC1
 ```
-Using one of the programs mentioned above (or your favourite text editor, if you already have one!), try it out on the example file [TODO]**EXAMPLE FILE NAME HERE**. If you're using an editor, remember to make sure that you have your searches switched to regex mode.
+Using one of the programs mentioned above (or your favourite text editor, if you already have one!), try it out on the example file `example.gff`. If you're using an editor, remember to make sure that you have your searches switched to regex mode.
 
 Gene names are one example of where the letters in your target string might be in upper or lower case (or a mix of the two) - DNA and RNA sequences are another. You should consider this when doing your search: most search functions/programs provide an option to switch case sensitivity on and off. For example, when using `grep` on the command line, the `-i` option activates case insensitivity.
 
@@ -23,10 +23,10 @@ Groups of characters that can be matched in a certain position are specified bet
 ```
 will match 'boot', 'foot', and 'root', but not 'loot', or 'moot'. Only a single character inside the `[]` will be matched, so the pattern above will not (completely) match 'froot' or 'rboot' either.
 
-We can apply this approach to match only `hdac1` and `hdac2` in our example file, with the regex below.
+We can apply this approach to match only `HDAC1` and `HDAC2` in our example file, with the regex below.
 
 ```
-hdac[12]
+HDAC[12]
 ```
 
 The set of characters specified inside `[]` can be a mix of letters, numbers, and symbols. So,
