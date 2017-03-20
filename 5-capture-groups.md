@@ -54,7 +54,7 @@ which is a good start. But, now we need to consider how to make sure that we kee
 
 Regular expressions provide the capability to identify and store parts of a matched pattern, for reuse in the replacement string. This means that we can find and replace all of those species names in a single operation, while maintaining the specific strings that we still need. To do this, we need to use _capture groups_.
 
-In a regex, a capture group is established in with `()` parentheses, and referred to in the replacement string with `\N`, where `N` is an integer (1-9) signifying which group in the regex should be substituted in at the specified position. Captured groups are counted from left to right. This should be made clearer with an example below:
+In a regex, a capture group is established in with `()` parentheses, and referred to in the replacement string with `\N`, where `N` is an integer (1-9) signifying which group in the regex should be substituted in at the specified position\*. Captured groups are counted from left to right. This should be made clearer with an example below:
 
 ```
 group_1, group_2, group_3
@@ -101,6 +101,16 @@ or, to wrap each group in quotation marks:
 
 # returns "group_1", "group_2", "group_3"
 ```
+
+> __Note__  
+> \* Here we are using the `\1`, `\2`  notation for referencing
+> captured groups, but you will often see `$1`, `$2` etc used instead.
+> This is the case when using regular expressions in Perl, and in many
+> text editors e.g. Atom. Be wary of the different tokens and 
+> wildcards used for regexes in different environments - it can trip
+> you up easily. You should always try out a regex replacement before
+> running it on any large volume of data/text, and make sure that you
+> have a backup so that you can easily revert any unintended changes!
 
 Using this approach, you can capture up to nine different groups and re-use as many of them as you like in your replacement string. This is really helpful when reformatting large files e.g. to remove additional characters, which can otherwise be very fiddly and time-consuming.
 
