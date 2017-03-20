@@ -88,4 +88,4 @@ The last thing to tell you about sets and ranges (for now), is that we can also 
 will match '2010', '201K', '201j', etc, but not '2012', '2016', or '2019'. In contrast to `-`, which is only taken literally when at the start of the set, `^` only takes a special meaning at the start of a set - it is treated literally if it appears anywhere else in the set. If you want to invert a set that should include the `-` symbol, start the set with `^-` followed by whatever other characters you don't want to match.
 
 > #### Exercise 2.3
-> [TODO] Exercise(s) testing understanding of inverted sets
+> Use an inverted set to only match the human autosomes (chr1-22), i.e. filtering out chromosomes chrX, chrY and chrM. How many records with autosomes can you find in file [TODO]**EXAMPLE_FILE**?
