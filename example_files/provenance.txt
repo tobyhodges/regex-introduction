@@ -12,3 +12,14 @@ bamtools view -h HG00103.chrom20.ILLUMINA.bwa.GBR.low_coverage.20101123.bam >> e
 
 ## convert back to bam
 samtools view -Shb example.sam > example.bam
+
+--------------- example.gff ------------------------------------------
+
+## download human genome annotation
+go to http://www.ensembl.org/info/data/ftp/index.html
+select 'GFF3'
+connect as guest
+download Homo_sapiens.GRCh38.87.chr.gff3.gz
+gzip -dc Homo_sapiens.GRCh38.87.chr.gff3.gz | grep -i -C250 hdac > example.gff
+
+
