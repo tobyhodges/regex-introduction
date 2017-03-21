@@ -50,7 +50,19 @@ to match any string beginning with an upper case letter, followed by 'at' e.g. '
 Only seven characters now - that's much better! All lower case letters can be matched with the set `[a-z]`, and digits with `[0-9]`. 
 
 > #### Exercise 2.2
-> [TODO] a few exercies matching gene names with sets and ranges
+> a) In total, how many lines mention HDAC 1-5 in `example.gff`?  
+> b) Which of the following expressions could you use to match any four-letter word beginning with an uppercase letter, followed by two vowels, and ending with 'd'?  
+> 
+> ```	
+> 	i) [upper][vowel][vowel]d  
+> 
+> 	ii) [A-Z][a-u][a-u]d
+> 
+> 	iii) [A-Z][aeiou][aeiou]d
+> 
+> 	iv) [A-Z][aeiou]*2;d
+> ``` 
+> c) Try playing around with the character ranges that you have learned above. What does `[A-z]` evauluate to? What about `[a-Z]`? Can you create a range that covers all letter and number characters?
 
 Ranges don't have to include the whole alphabet or every digit - we can match only the second half of the alphabet with
 
@@ -88,4 +100,4 @@ The last thing to tell you about sets and ranges (for now), is that we can also 
 will match '2010', '201K', '201j', etc, but not '2012', '2016', or '2019'. In contrast to `-`, which is only taken literally when at the start of the set, `^` only takes a special meaning at the start of a set - it is treated literally if it appears anywhere else in the set. If you want to invert a set that should include the `-` symbol, start the set with `^-` followed by whatever other characters you don't want to match.
 
 > #### Exercise 2.3
-> Use an inverted set to only match the human autosomes (chr1-22), i.e. filtering out chromosomes chrX, chrY and chrM. How many records with autosomes can you find in file [TODO]**EXAMPLE_FILE**?
+> Use an inverted set to only match the human autosomes (chr1-22), i.e. filtering out chromosomes chrX, chrY and chrM. How many records with autosomes can you find in file `example.gff`?
