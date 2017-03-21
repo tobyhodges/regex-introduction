@@ -66,4 +66,4 @@ For example, in the example SAM file, 'example.sam', there are several header li
 to capture only the header lines. A similar approach can also be useful when searching for particular primer/adapter sequences in high-throughput DNA sequencing data.
 
 > #### Exercise 3.3
-> Count how many sequences in example_protein.fasta are of transcript_biotype "protein_coding". Hint: sequence records have a header that start with the character "`>`".
+> Count how many sequences in example_protein.fasta are of transcript_biotype "protein_coding". Hint: sequence records have a header that starts with the character "`>`".
