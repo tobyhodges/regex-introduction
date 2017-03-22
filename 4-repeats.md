@@ -41,15 +41,15 @@ will match 'deformed', as well as 'dmed', 'doomed', and 'doooooooooooomed'. It a
 > 
 > b) Write a regular expression to match the string
 > 
-> "ATGC"
+> "ATGCTTTCG"
 > 
 > and
 > 
-> "ATC"
+> "ATCTCG"
 > 
 > but *not*
 > 
-> "ATGGC"
+> "ATGGCCG"
 > 
 
 
@@ -75,7 +75,10 @@ AG[ACGT]{4,10}GC
 matches any sequence between four and ten nucleotides, flanked by 'AG' on one side and 'GC' on the other.
 
 > #### Exercise 4.2
-> Exercise testing use of `{}`, and asking learner to investigate what happens when they omit either minimum or maximum number of matches.
+> use `{}` to search `example_protein.fasta` for trytophan (W) 
+> followed by tyrosine (Y), with an increasing number of leucine (L)
+> residues in between. Start by searching for this pattern with three leucines (i.e. 'WLLLY'), then reduce this to two, and one. Is this working as you expect? How would you search for a range of lengths of the leucine repeat? Try searching for any patterns with at between one and four leucines.  
+> What happens if you leave out the upper limit inside the `{}`? Or the lower limit? Can you leave out both?
 
 Specifying only one of these limits, while retaining the comma in the appropriate position, allows you to control for a only an upper or lower limit to the number of repeats. So,
 
