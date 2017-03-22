@@ -25,7 +25,7 @@ GYSSSWY
 >ENSP00000473787.1 pep:known chromosome:GRCh38:15:20011153:20011169:-1 gene:ENSG00000271336.1 transcript:ENST00000605284.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
 GITGT
 >ENSP00000487993.1 pep:known chromosome:GRCh38:CHR_HSCHR14_3_CTG1:105898728:105898758:-1 gene:ENSG00000282818.1 transcript:ENST00000632473.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
-RIL*WW*LLL
+RIL*WW*LLLY
 >ENSP00000419773.1 pep:known chromosome:GRCh38:14:105904497:105904527:-1 gene:ENSG00000211923.1 transcript:ENST00000390583.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
 VLLWFGELL
 >ENSP00000487787.1 pep:known chromosome:GRCh38:CHR_HSCHR14_3_CTG1:105896405:105896441:-1 gene:ENSG00000282232.1 transcript:ENST00000633379.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
@@ -59,7 +59,7 @@ SILWW*LLF
 >ENSP00000474017.2 pep:known chromosome:GRCh38:15:21015048:21015078:-1 gene:ENSG00000282268.1 transcript:ENST00000604102.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
 RIL**YYFLC
 >ENSP00000427969.1 pep:known chromosome:GRCh38:14:105897957:105897987:-1 gene:ENSG00000211918.1 transcript:ENST00000390578.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
-RIL*WW*LLL
+RIL*WW*LLLY
 >ENSP00000474222.1 pep:known chromosome:GRCh38:15:21017800:21017816:-1 gene:ENSG00000270185.1 transcript:ENST00000604838.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
 GITGT
 >ENSP00000418625.1 pep:known chromosome:GRCh38:14:105919502:105919518:-1 gene:ENSG00000236170.1 transcript:ENST00000454908.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
@@ -75,7 +75,7 @@ VDIVATI
 >ENSP00000417751.1 pep:known chromosome:GRCh38:14:105881539:105881556:-1 gene:ENSG00000225825.1 transcript:ENST00000452198.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
 GYSSGY
 >ENSP00000419139.1 pep:known chromosome:GRCh38:14:105883903:105883922:-1 gene:ENSG00000211909.1 transcript:ENST00000390569.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
-VEMATI
+VEMW**L*L*YATI
 >ENSP00000473849.1 pep:known chromosome:GRCh38:15:20003840:20003862:-1 gene:ENSG00000270961.1 transcript:ENST00000604642.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene
 VDIVSTI
 >ENSP00000474573.2 pep:known chromosome:GRCh38:15:21012559:21012589:-1 gene:ENSG00000282089.1 transcript:ENST00000603935.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene

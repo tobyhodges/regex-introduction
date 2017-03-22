@@ -61,3 +61,12 @@ which we can then use with `grep` or some other program to get a count of the ma
 > If you study the contents of the file `person_info.csv`, you will see that some variation exists in the address formatting. For example, some of the addresses use 'First Street' while others use '1st Street' or some other variation.  
 > Can you find all the lines containing information on a person living on 1st/First Street/street, using a single reglar expression?
 
+
+> #### Exercise 6.2
+> Referring back to exercise 4.2, where you were asked to find the
+> instances of WL*Y patterns in the file `example_protein.fasta` -
+> looking at the file contents, you can see that there are often '\*'
+> symbols in the sequences. In a protein sequence, these refer to a
+> stop codon. Create a regex that will match a pattern starting with
+> 'W' and ending with 'Y', with between two and five 'L's or '\*'s in
+> between.
