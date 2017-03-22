@@ -21,6 +21,8 @@ There are [TODO]**NUMBER_MATCHES** records.
 \d\d\.\d\d\.\d\d\d\d
 ```
 
+There are 25 matches in the file `person_info.csv` (every even record).
+
 Note that there are a few caveats with that regex, such that it will also match strings like 131.01.20171 or 99.99.9999.
 
 #### Exercise 3.2
@@ -29,12 +31,21 @@ Note that there are a few caveats with that regex, such that it will also match 
 \b\d\d\.\d\d\.\d\d\d\d\b
 ```
 
+Note that this prevents matching strings like 131.01.20171, but still allows non-sensical dates such as 99.99.9999.
 
 #### Exercise 3.3
+
+While both regular expressions will prevent leading and succeeding digits, the regular expression `\D\d\d\d\d\D` won't
+work if the four digits appear at the beginning or end of the string. That is because the `\D` tokens MUST
+match a character.
+
+#### Exercise 3.4
 
 ```
 ^>.*transcript_biotype:protein_coding
 ```
+
+There are 17 matches in the file `example_protein.fasta`.
 
 ### Chapter 4
 
