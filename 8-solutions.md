@@ -51,4 +51,14 @@ There are 17 matches in the file `example_protein.fasta`.
 
 ### Chapter 5
 
+#### Exercise 5.1
+
+Use the regex `^(ENSP\d.+)` and substitute with `>\1`.
+
+Note that we explicitly match a digit character `\d`. This is because E, N, S and P are all character of the amino acid alphabet and thus `ENSP` can wrongly match protein sequences.
+
+#### Exercise 5.2
+
+Use the regex `Pictures\/(France-2015)\/` and substitute with `shared/vacation-pics/\1-`.
+
 ### Chapter 6
