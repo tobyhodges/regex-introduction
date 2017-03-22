@@ -26,7 +26,7 @@ Notice that these tokens have a common sytax - a backslash character '\' followe
 This even extends to far as to the backslash character itself - you can specify that you want to match a literal backslash, by preceding that backslash character with - you guessed it! - a backslash i.e. with `\\`.
 
 > #### Exercise 3.1
-> Match dates of the form 31.01.2017 (DAY-MONTH-YEAR).
+> Match dates of the form 31.01.2017 (DAY-MONTH-YEAR) in the example file `person_info.csv`. Pay attention to not wrongly match phone numbers. How many matches do you find?
 
 ### Word Boundaries
 
@@ -47,8 +47,10 @@ This is where the `\b` token comes in handy. 'Word boundary' characters include 
 we ensure that we will only get matches to 'chromosome1' and 'chromosome2' as whole words, regardless of whether they are flanked by spaces, symbols, or the beginning or end of a line.
 
 > #### Exercise 3.2
-> Multiple-choice exercise on word boundaries
-> Additionally, refine the regex from the previous exercise to prevent matching strings with preceeding or succeeding digits, such as 131.01.20171.
+> How can you refine the regex from the previous exercise to prevent matching strings with preceeding or succeeding digits, such as 131.01.20171?
+ 
+> #### Exercise 3.3
+> For matching exactly four digits, what is the difference between the regular expressions `\b\d\d\d\d\b` and `\D\d\d\d\d\D`?
 
 ### The `.` Wildcard
 
@@ -65,5 +67,5 @@ For example, in the example SAM file, 'example.sam', there are several header li
 
 to capture only the header lines. A similar approach can also be useful when searching for particular primer/adapter sequences in high-throughput DNA sequencing data.
 
-> #### Exercise 3.3
-> Count how many sequences in example_protein.fasta are of transcript_biotype "protein_coding". Hint: sequence records have a header that starts with the character "`>`".
+> #### Exercise 3.4
+> Count how many sequences in `example_protein.fasta` are of transcript_biotype "protein_coding". Hint: sequence records have a header that starts with the character "`>`".
