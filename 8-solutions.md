@@ -1,17 +1,28 @@
 # 8. Solutions
 
-### Chapter 1
-
-#### Exercise 1.1
 
 ### Chapter 2
+
+#### Exercise 2.1
+
+```
+HDAC
+# or, for a more specific
+Name=HDAC
+```
+
+#### Exercise 2.2
+
+a) 111 (using the regex `HDAC[1-5]`)  
+b) option iii) fits the description. You might also have chosen option ii), which would match the described pattern, but would also match other non-vowel letters in the middle two positions.  
+c) `[A-z]` matches all letter characters (both upper and lower case). `[a-Z]` is an invalid set. `[A-9]` will match any letter or digit character.
 
 #### Exercise 2.3
 
 ```
-chr[^XYM]
+^[^XYM]
 ```
-There are [TODO]**NUMBER_MATCHES** records.
+There are 5552 records.
 
 ### Chapter 3
 
@@ -45,9 +56,22 @@ match a character.
 ^>.*transcript_biotype:protein_coding
 ```
 
-There are 17 matches in the file `example_protein.fasta`.
+There are 17 matches in the file `example_protein.fasta`. _Note: be careful when using `>` in a regular expression on the command line - the `>` symbol has a special meaning in many command line environments, and using it can result in accidentally wiping the content of files etc._
 
 ### Chapter 4
+
+#### Exercise 4.1
+a) __iv)__ the regex will match all of the strings i) - iii)  
+b) `ATG?CT+CG`
+
+#### Exercise 4.2
+
+```
+WL{3}Y
+WL{2}Y
+WL{1}Y
+WL{1,4}Y
+```
 
 ### Chapter 5
 
@@ -62,3 +86,11 @@ Note that we explicitly match a digit character `\d`. This is because E, N, S an
 Use the regex `Pictures\/(France-2015)\/` and substitute with `shared/vacation-pics/\1-`.
 
 ### Chapter 6
+
+#### Exercise 6.1
+
+`[Ff]irst [Ss]treet|1st [Ss]treet`
+
+#### Exercise 6.2
+
+`W[L*]{2,5}Y`

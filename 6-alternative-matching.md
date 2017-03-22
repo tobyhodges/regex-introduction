@@ -65,8 +65,8 @@ which we can then use with `grep` or some other program to get a count of the ma
 > #### Exercise 6.2
 > Referring back to exercise 4.2, where you were asked to find the
 > instances of WL*Y patterns in the file `example_protein.fasta` -
-> looking at the file contents, you can see that there are often '\*'
-> symbols in the sequences. In a protein sequence, these refer to a
-> stop codon. Create a regex that will match a pattern starting with
-> 'W' and ending with 'Y', with between two and five 'L's or '\*'s in
-> between.
+> looking at the file contents, you can see that there are often
+> asterisk symbols in the sequences. In a protein sequence, these
+> refer to a stop codon. Create a regex that will match a pattern
+> starting with 'W' and ending with 'Y', with between two and five
+> 'L's or '\*'s in between.

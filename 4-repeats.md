@@ -31,12 +31,9 @@ will match 'deformed', as well as 'dmed', 'doomed', and 'doooooooooooomed'. It a
 > expression `MVIA*CP`?
 > 
 >
->> 	i) MVIAACP
->> 
->> ii) MVICP
->> 
->> iii) MVIACP
->> 
+>> 	i) MVIAACP  
+>> ii) MVICP  
+>> iii) MVIACP  
 >> iv) all of the above
 > 
 > b) Write a regular expression to match the string
