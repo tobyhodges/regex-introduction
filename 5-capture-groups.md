@@ -158,4 +158,22 @@ to the desired format:
 ```
 
 > #### Exercise 5.1
-> [TODO] Exercise(s) testing understanding of capture groups and replacement strings
+> The file `example_protein_malformed.fasta` is missing the `>` character at the beginning of the headers. Use a capture group to add them.
+
+---
+
+> #### Exercise 5.1
+> The file `file_paths.txt` contains file paths of image files. The files are organised by folders based on vacations, but the files themselves have cryptic names. You want the files to be prefixed by the vacation and move them into a shared folder. At the end the list should look like:
+>
+> ```
+> /Users/Jane/shared/vacation-pics/France-2015-IMG-06650.jpg
+> /Users/Jane/shared/vacation-pics/France-2015-IMG-06651.jpg
+> ...
+> /Users/Jane/shared/vacation-pics/France-2017-IMG-08449.jpg
+> ...
+> /Users/Jane/shared/vacation-pics/Greece-2016-IMG-07895.jpg
+> ...```
+>
+> Use a capture group to transform the file paths accordingly.
+
+
