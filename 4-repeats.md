@@ -27,7 +27,31 @@ d[efor]*med
 will match 'deformed', as well as 'dmed', 'doomed', and 'doooooooooooomed'. It also important to be aware that the modifiers are 'greedy', which means that the regex engine will match as many characters as possible before moving on to the next character of the pattern. [TODO] Greediness example
 
 > #### Exercise 4.1
-> repeat modifiers exercise
+> a) Which of the follow strings will be matched by the regular
+> expression `MVIA*CP`?
+> 
+>
+>> 	i) MVIAACP
+>> 
+>> ii) MVICP
+>> 
+>> iii) MVIACP
+>> 
+>> iv) all of the above
+> 
+> b) Write a regular expression to match the string
+> 
+> "ATGC"
+> 
+> and
+> 
+> "ATC"
+> 
+> but *not*
+> 
+> "ATGGC"
+> 
+
 
 ### Specifying Repeats
 In addition to the modifiers above, which allow the user to specify whether to match, zero, one, or an arbitrary multitude of a character/set, it is also possible to match only a certain number of repeats, or within a certain range of numbers of repeats, using `{}`.
