@@ -57,5 +57,7 @@ Homo sapiens|Pan troglodytes
 
 which we can then use with `grep` or some other program to get a count of the matches. You can use this approach to selectively extract lines from a larger file, while preserving their order relative to each other. For example, this can be useful when subsetting a GFF annotation file based on feature type, source, etc.
 
->#### Exercise 6.1
->[TODO] Exercise(s) to test understanding of OR matches
+> #### Exercise 6.1
+> If you study the contents of the file `person_info.csv`, you will see that some variation exists in the address formatting. For example, some of the addresses use 'First Street' while others use '1st Street' or some other variation.  
+> Can you find all the lines containing information on a person living on 1st/First Street/street, using a single reglar expression?
+
