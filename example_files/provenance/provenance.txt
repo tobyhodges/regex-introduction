@@ -20,6 +20,6 @@ go to http://www.ensembl.org/info/data/ftp/index.html
 select 'GFF3'
 connect as guest
 download Homo_sapiens.GRCh38.87.chr.gff3.gz
-gzip -dc Homo_sapiens.GRCh38.87.chr.gff3.gz | grep -i -C2 hdac | grep -v -- '^--' > example.gff
+gzip -dc Homo_sapiens.GRCh38.87.chr.gff3.gz | grep -i -C2 hdac | grep -v -- '^--' | grep -v '^###' > example.gff
 zgrep '^MT' ~/Documents/Miscellaneous/Homo_sapiens.GRCh38.87.chr.gff3.gz | head -n7 | sed 's/^MT/chrM/' >> example.gff 
 zgrep '^Y' ~/Documents/Miscellaneous/Homo_sapiens.GRCh38.87.chr.gff3.gz | head -n4 | sed 's/^/chr/' >> example.gff 

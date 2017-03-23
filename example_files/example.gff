@@ -50,7 +50,6 @@ chr1	havana	aberrant_processed_transcript	32331536	32333079	.	+	.	ID=transcript:
 chr1	havana	exon	32331536	32331582	.	+	.	Parent=transcript:ENST00000471488;Name=ENSE00001935018;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001935018;rank=1;version=1
 chr1	havana	exon	32331676	32332242	.	+	.	Parent=transcript:ENST00000471488;Name=ENSE00001899360;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001899360;rank=2;version=1
 chr1	ensembl	exon	220571739	220572035	.	-	.	Parent=transcript:ENST00000492743;Name=ENSE00001902069;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001902069;rank=1;version=3
-chr###
 chr1	havana	gene	220625740	220628056	.	+	.	ID=gene:ENSG00000233012;Name=HDAC1P2;biotype=transcribed_processed_pseudogene;description=histone deacetylase 1 pseudogene 2 [Source:HGNC Symbol%3BAcc:HGNC:45191];gene_id=ENSG00000233012;havana_gene=OTTHUMG00000037360;havana_version=2;logic_name=havana;version=2
 chr1	havana	processed_pseudogene	220625740	220627448	.	+	.	ID=transcript:ENST00000453661;Parent=gene:ENSG00000233012;Name=HDAC1P2-001;biotype=transcribed_processed_pseudogene;havana_transcript=OTTHUMT00000090921;havana_version=1;tag=basic;transcript_id=ENST00000453661;transcript_support_level=NA;version=1
 chr1	havana	exon	220625740	220626532	.	+	.	Parent=transcript:ENST00000453661;Name=ENSE00001733673;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001733673;rank=1;version=1
@@ -59,9 +58,7 @@ chr1	havana	exon	220625740	220626532	.	+	.	Parent=transcript:ENST00000453661;Nam
 chr1	havana	exon	220626844	220627448	.	+	.	Parent=transcript:ENST00000453661;Name=ENSE00001615759;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001615759;rank=2;version=1
 chr1	havana	processed_transcript	220627250	220628056	.	+	.	ID=transcript:ENST00000602936;Parent=gene:ENSG00000233012;Name=HDAC1P2-002;biotype=processed_transcript;havana_transcript=OTTHUMT00000467811;havana_version=1;tag=basic;transcript_id=ENST00000602936;transcript_support_level=NA;version=1
 chr1	havana	exon	220627250	220628056	.	+	.	Parent=transcript:ENST00000602936;Name=ENSE00003441822;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00003441822;rank=1;version=1
-chr###
 chr10	havana	exon	94120717	94121107	.	+	.	Parent=transcript:ENST00000432707;Name=ENSE00001615208;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001615208;rank=2;version=1
-chr###
 chr10	havana	gene	94137748	94139500	.	+	.	ID=gene:ENSG00000234724;Name=HDAC1P1;biotype=processed_pseudogene;description=histone deacetylase 1 pseudogene 1 [Source:HGNC Symbol%3BAcc:HGNC:45190];gene_id=ENSG00000234724;havana_gene=OTTHUMG00000018784;havana_version=1;logic_name=havana;version=1
 chr10	havana	processed_pseudogene	94137748	94139500	.	+	.	ID=transcript:ENST00000455482;Parent=gene:ENSG00000234724;Name=HDAC1P1-001;biotype=processed_pseudogene;havana_transcript=OTTHUMT00000049462;havana_version=1;tag=basic;transcript_id=ENST00000455482;transcript_support_level=NA;version=1
 chr10	havana	exon	94137748	94138999	.	+	.	Parent=transcript:ENST00000455482;Name=ENSE00001795586;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001795586;rank=1;version=1
@@ -218,7 +215,6 @@ chr12	havana	mRNA	47798640	47813484	.	-	.	ID=transcript:ENST00000445237;Parent=g
 chr12	havana	exon	47798640	47798652	.	-	.	Parent=transcript:ENST00000445237;Name=ENSE00002334459;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00002334459;rank=4;version=1
 chr12	havana	CDS	47798640	47798652	.	-	0	ID=CDS:ENSP00000390415;Parent=transcript:ENST00000445237;protein_id=ENSP00000390415
 chr17	havana	three_prime_UTR	44075710	44076344	.	+	.	Parent=transcript:ENST00000590253
-chr###
 chr17	ensembl_havana	gene	44076746	44123702	.	-	.	ID=gene:ENSG00000108840;Name=HDAC5;biotype=protein_coding;description=histone deacetylase 5 [Source:HGNC Symbol%3BAcc:HGNC:14068];gene_id=ENSG00000108840;havana_gene=OTTHUMG00000181806;havana_version=2;logic_name=ensembl_havana_gene;version=15
 chr17	ensembl_havana	mRNA	44076746	44123638	.	-	.	ID=transcript:ENST00000225983;Parent=gene:ENSG00000108840;Name=HDAC5-003;biotype=protein_coding;ccdsid=CCDS32663.1;havana_transcript=OTTHUMT00000457683;havana_version=1;tag=basic;transcript_id=ENST00000225983;transcript_support_level=5;version=10
 chr17	ensembl_havana	three_prime_UTR	44076746	44078375	.	-	.	Parent=transcript:ENST00000225983
@@ -476,12 +472,10 @@ chr22	havana	aberrant_processed_transcript	50250257	50250972	.	-	.	ID=transcript
 chr22	havana	exon	50250257	50250523	.	-	.	Parent=transcript:ENST00000482213;Name=ENSE00001879383;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001879383;rank=2;version=1
 chr22	havana	exon	50250771	50250972	.	-	.	Parent=transcript:ENST00000482213;Name=ENSE00001845595;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001845595;rank=1;version=1
 chr3	havana	exon	13460424	13460889	.	-	.	Parent=transcript:ENST00000440852;Name=ENSE00001739015;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001739015;rank=1;version=1
-chr###
 chr3	havana	gene	13476982	13480053	.	-	.	ID=gene:ENSG00000244502;Name=HDAC11-AS1;biotype=antisense;description=HDAC11 antisense RNA 1 [Source:HGNC Symbol%3BAcc:HGNC:40868];gene_id=ENSG00000244502;havana_gene=OTTHUMG00000155438;havana_version=2;logic_name=havana;version=2
 chr3	havana	transcript	13476982	13480053	.	-	.	ID=transcript:ENST00000424112;Parent=gene:ENSG00000244502;Name=HDAC11-AS1-001;biotype=antisense;havana_transcript=OTTHUMT00000340084;havana_version=2;tag=basic;transcript_id=ENST00000424112;transcript_support_level=2;version=2
 chr3	havana	exon	13476982	13477085	.	-	.	Parent=transcript:ENST00000424112;Name=ENSE00001595120;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001595120;rank=2;version=2
 chr3	havana	exon	13479643	13480053	.	-	.	Parent=transcript:ENST00000424112;Name=ENSE00001804812;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001804812;rank=1;version=2
-chr###
 chr3	.	biological_region	13479413	13480762	991	.	.	external_name=oe %3D 0.80;logic_name=cpg
 chr3	ensembl_havana	gene	13479724	13506424	.	+	.	ID=gene:ENSG00000163517;Name=HDAC11;biotype=protein_coding;description=histone deacetylase 11 [Source:HGNC Symbol%3BAcc:HGNC:19086];gene_id=ENSG00000163517;havana_gene=OTTHUMG00000129800;havana_version=8;logic_name=ensembl_havana_gene;version=14
 chr3	ensembl_havana	mRNA	13479724	13505334	.	+	.	ID=transcript:ENST00000433119;Parent=gene:ENSG00000163517;Name=HDAC11-002;biotype=protein_coding;havana_transcript=OTTHUMT00000318577;havana_version=3;tag=basic;transcript_id=ENST00000433119;transcript_support_level=1;version=5
@@ -668,7 +662,6 @@ chr5	havana	exon	141634811	141634856	.	-	.	Parent=transcript:ENST00000471968;Nam
 chr5	havana	aberrant_processed_transcript	141635909	141636843	.	-	.	ID=transcript:ENST00000492506;Parent=gene:ENSG00000171720;Name=HDAC3-002;biotype=retained_intron;havana_transcript=OTTHUMT00000318598;havana_version=1;transcript_id=ENST00000492506;transcript_support_level=2;version=1
 chr5	havana	exon	141635909	141636630	.	-	.	Parent=transcript:ENST00000492506;Name=ENSE00001944832;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001944832;rank=2;version=1
 chr5	havana	exon	141636736	141636843	.	-	.	Parent=transcript:ENST00000492506;Name=ENSE00001954138;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001954138;rank=1;version=1
-chr###
 chr6	.	biological_region	113905329	113905836	0.708	-	.	external_name=rank %3D 1;logic_name=firstef
 chr6	ensembl_havana	gene	113933028	114011308	.	-	.	ID=gene:ENSG00000196591;Name=HDAC2;biotype=protein_coding;description=histone deacetylase 2 [Source:HGNC Symbol%3BAcc:HGNC:4853];gene_id=ENSG00000196591;havana_gene=OTTHUMG00000015411;havana_version=4;logic_name=ensembl_havana_gene;version=11
 chr6	ensembl_havana	mRNA	113933028	113971285	.	-	.	ID=transcript:ENST00000519065;Parent=gene:ENSG00000196591;Name=HDAC2-001;biotype=protein_coding;ccdsid=CCDS43493.2;havana_transcript=OTTHUMT00000041909;havana_version=2;tag=basic;transcript_id=ENST00000519065;transcript_support_level=1;version=5
