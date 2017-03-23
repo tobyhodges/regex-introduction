@@ -75,8 +75,8 @@ which we can then use with `grep` or some other program to get a count of the ma
 > 
 > a) how many reads are there in the file for each of these barcodes?
 >   
-> b) write a regular expression that will find and remove these barcodes from the start of the sequences in which they are found  
+> b) write a regular expression that will find and these barcodes and a replacement string that will remove from the start of the sequences in which they are found  
 > 
 > c) of course, the format of the file means that you should probably remove the quality scores associated with those sequence positions too. Rewrite your regex so that the barcode sequence AND its corresponding quality scores (i.e. the first six characters on the sequence and quality lines) are removed.  
 > 
-> d) finally, can you build on the regex from part c), to replace the incorrect index sequences in the header lines with the barcodes for each relevant sequence record?
+> d) finally, can you build on the regex and replacement string from part c), to replace the incorrect index sequences in the header lines with the barcodes for each relevant sequence record?

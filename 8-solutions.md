@@ -91,6 +91,23 @@ Use the regex `Pictures\/(France-2015)\/` and substitute with `shared/vacation-p
 
 `[Ff]irst [Ss]treet|1st [Ss]treet`
 
+`(Fir|fir|1)st [Ss]treet`
+
 #### Exercise 6.2
 
-`W[L*]{2,5}Y`
+a) 
+AGGCCA: 25  
+TGTGAC: 29  
+GCTGAC: 19
+
+b)  
+regex: `^(AGGCCA|TGTGAC|GCTGAC)([ACGTN]+\n\+\n)`  
+replacement string: `\2` (`$2`)
+
+c)  
+regex: `^(AGGCCA|TGTGAC|GCTGAC)([ACGTN]+\n\+\n).{6}`
+replacement string: `\2` (`$2`)
+
+d)  
+regex: `^(@VFI-SQ316.+:)GCGCTG\n(AGGCCA|TGTGAC|GCTGAC)([ACGTN]+\n\+\n).{6}`  
+replacement string: `\1\2\n\3`
