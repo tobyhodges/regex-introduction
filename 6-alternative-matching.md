@@ -62,8 +62,21 @@ which we can then use with `grep` or some other program to get a count of the ma
 > Can you find all the lines containing information on a person living on 1st/First Street/street, using a single reglar expression?
 
 > #### Exercise 6.2
-> matching (and moving) indices in FASTQ  
-> a) count reads for each index  
-> b) remove index from nuc seq  
-> c) remove qual scores with index  
-> d) replace index sequence in header line
+> The FASTQ file `example.fastq` contains sequence reads with quality scores, in the format
+> 
+> ```
+> @sequence header line with barcode sequence
+> sequence
+> +
+> quality scores for basecalls
+> ```
+> 
+> Unfortunately, the barcode sequences in the header lines are wrong, and the barcodes are still attached to the front of the sequences. There are three barcodes that we are interested in: AGGCCA, TGTGAC, and GCTGAC.  
+> 
+> a) how many reads are there in the file for each of these barcodes?
+>   
+> b) write a regular expression that will find and remove these barcodes from the start of the sequences in which they are found  
+> 
+> c) of course, the format of the file means that you should probably remove the quality scores associated with those sequence positions too. Rewrite your regex so that the barcode sequence AND its corresponding quality scores (i.e. the first six characters on the sequence and quality lines) are removed.  
+> 
+> d) finally, can you build on the regex from part c), to replace the incorrect index sequences in the header lines with the barcodes for each relevant sequence record?
