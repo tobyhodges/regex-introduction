@@ -47,6 +47,10 @@ excellent [regular-expressions.info](http://www.regular-expressions.info).
 7. [Links & Recommended Reading](./7-links.md)
 8. [Solutions](./8-solutions.md)
 
+#### Files
+
+Download a ZIP of all of the exercise files [here](http://bit.ly/2nqtWc4).
+
 #### History
 
 These materials have been developed from a short workshop originally hosted by

@@ -24,7 +24,7 @@ will match 'find', 'found', and 'fiuoaaend'. Note that the whole class can be re
 d[efor]*med
 ```
 
-will match 'deformed', as well as 'dmed', 'doomed', and 'doooooooooooomed'. It also important to be aware that the modifiers are 'greedy', which means that the regex engine will match as many characters as possible before moving on to the next character of the pattern. [TODO] Greediness example
+will match 'deformed', as well as 'dmed', 'doomed', and 'doooooooooooomed'. It also important to be aware that the modifiers are 'greedy', which means that the regex engine will match as many characters as possible before moving on to the next character of the pattern.
 
 > #### Exercise 4.1
 > a) Which of the follow strings will be matched by the regular

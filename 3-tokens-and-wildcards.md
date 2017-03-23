@@ -30,21 +30,21 @@ This even extends to far as to the backslash character itself - you can specify 
 
 ### Word Boundaries
 
-The `\d`, `\w`, and `\s` tokens are reasonably easy to understand - each one represents a clear set of characters. The `\b` token is more interesting - it is used to match what is referred to as a 'word boundary', and can be used to ensure matching of whole words only. For example, we want to find every instance of 'chromosome1' and 'chromosome2' in the file [TODO] EXAMPLE_FILE. Using what we've already learned, we can design the regex
+The `\d`, `\w`, and `\s` tokens are reasonably easy to understand - each one represents a clear set of characters. The `\b` token is more interesting - it is used to match what is referred to as a 'word boundary', and can be used to ensure matching of whole words only. For example, we want to find every instance of 'chr1' and 'chr2' in the file `example.gff`. Using what we've already learned, we can design the regex
 
 ```
-chromosome[12]
+chr[12]
 ```
 
-which will match either of the two target strings. However, this regex will also match all but the last character of 'chromosome13' and 'chromosome22', which is not what we want*. How can we be sure that we will only match the two chromosome identifiers that we want, without additional digits on the end? We could add a space character to the end of the regex. But what if the target string appears at the end of a line? Or before a symbol/delimiter such as ';' or '.'? These strings will be missed by our regex ending with a space. 
+which will match either of the two target strings. However, this regex will also match all but the last character of 'chr13' and 'chr22', which is not what we want. How can we be sure that we will only match the two chromosome identifiers that we want, without additional digits on the end? We could add a space character to the end of the regex. But what if the target string appears at the end of a line? Or before a symbol/delimiter such as ';' or '.'? These strings will be missed by our regex ending with a space. 
 
 This is where the `\b` token comes in handy. 'Word boundary' characters include all of the options described above - symbols that might be used as field delimiters, periods and commas, newline characters, plus the special regex characters `^` and `$`, which refer to the beginning and end of a string respectively (more on these in a moment). So, by using the regex
 
 ```
-\bchromosome[12]\b
+\bchr[12]\b
 ```
 
-we ensure that we will only get matches to 'chromosome1' and 'chromosome2' as whole words, regardless of whether they are flanked by spaces, symbols, or the beginning or end of a line.
+we ensure that we will only get matches to 'chr1' and 'chr2' as whole words, regardless of whether they are flanked by spaces, symbols, or the beginning or end of a line.
 
 > #### Exercise 3.2
 > How can you refine the regex from the previous exercise to prevent matching strings with preceeding or succeeding digits, such as 131.01.20171?

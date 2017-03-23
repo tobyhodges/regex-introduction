@@ -23,3 +23,6 @@ Usually, you will need to specify that you want to use regular expression search
 ### Command Line
 In addition, several Unix command line tools are commonly available that use regular expressions, for searching (e.g. `grep`/`egrep`) and replacement/substitution (e.g. `sed`, `awk`, `perl -e`).
 
+## How can I get the files to use in the exercises?
+
+Download a ZIP of all of the exercise files [here](http://bit.ly/2nqtWc4).
