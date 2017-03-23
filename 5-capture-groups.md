@@ -160,7 +160,6 @@ to the desired format:
 > #### Exercise 5.1
 > The file `example_protein_malformed.fasta` is missing the `>` character at the beginning of the headers. Use a capture group to add them.
 
----
 
 > #### Exercise 5.1
 > The file `file_paths.txt` contains file paths of image files. The files are organised by folders based on vacations, but the files themselves have cryptic names. You want the files to be prefixed by the vacation and move them into a shared folder. At the end the list should look like:
