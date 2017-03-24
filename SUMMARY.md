@@ -8,3 +8,4 @@
 * [Capture Groups](5-capture-groups.md)
 * [Alternative Matching](6-alternative-matching.md)
 * [Links & Recommended Reading](7-links.md)
+* [Solutions to Exercises](8-solutions.md)
