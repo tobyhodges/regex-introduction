@@ -20,7 +20,7 @@ c) `[A-z]` matches all letter characters (both upper and lower case). `[a-Z]` is
 #### Exercise 2.3
 
 ```
-^[^XYM]
+chr[^XYM]
 ```
 There are 897 records matching this regular expression. In fact, there are only 895 lines beginning with `chr[^XYZ]`, but two other lines also match the regex above because they contain the string 'chromosome'. To avoid matching these, anchor the regex to the beginning of the line with `^` i.e. `^chr[^MXY]` (see chapter 3).
 
