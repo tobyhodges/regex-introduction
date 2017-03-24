@@ -49,6 +49,8 @@ to match any string beginning with an upper case letter, followed by 'at' e.g. '
 
 Only seven characters now - that's much better! All lower case letters can be matched with the set `[a-z]`, and digits with `[0-9]`. 
 
+_Note: Here, we will discuss only characters that fall inside the ASCII set - a limited set of roman alphabet letters, numbers, and symbols, which includes almost everything commonly used in English, but not accented characters (ü, é, ø, etc) or many specialised symbols (e.g. €, ¿, ±). Many regular expression engines provide a 'Unicode mode', often switched on with the 'u' flag, which will allow you to specify and match the full range of Unicode characters. This includes most alphabets, symbols, and even emojis._
+
 > #### Exercise 2.2
 > a) In total, how many lines mention HDAC 1-5 in `example.gff`?  
 > b) Which of the following expressions could you use to match any four-letter word beginning with an uppercase letter, followed by two vowels, and ending with 'd'?  

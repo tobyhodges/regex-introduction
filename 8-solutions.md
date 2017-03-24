@@ -7,13 +7,13 @@
 
 ```
 HDAC
-# or, for a more specific
+# or, for a more specific match
 Name=HDAC
 ```
 
 #### Exercise 2.2
 
-a) 111 (using the regex `HDAC[1-5]`)  
+a) 82 (using the regex `Name=HDAC[1-5][^0-9]`)  
 b) option iii) fits the description. You might also have chosen option ii), which would match the described pattern, but would also match other non-vowel letters in the middle two positions.  
 c) `[A-z]` matches all letter characters (both upper and lower case). `[a-Z]` is an invalid set. `[A-9]` will match any letter or digit character.
 
@@ -22,7 +22,7 @@ c) `[A-z]` matches all letter characters (both upper and lower case). `[a-Z]` is
 ```
 ^[^XYM]
 ```
-There are 5552 records.
+There are 897 records matching this regular expression. In fact, there are only 895 lines beginning with `chr[^XYZ]`, but two other lines also match the regex above because they contain the string 'chromosome'. To avoid matching these, anchor the regex to the beginning of the line with `^` i.e. `^chr[^MXY]` (see chapter 3).
 
 ### Chapter 3
 

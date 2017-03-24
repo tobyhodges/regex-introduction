@@ -74,6 +74,11 @@ AG[ACGT]{4,10}GC
 
 matches any sequence between four and ten nucleotides, flanked by 'AG' on one side and 'GC' on the other.
 
+### Grouping
+In some circumstances, you will need to specify exactly what it is that you would like to repeat within a regex. The `+`, `?`, and `*` modifiers above apply by default only to the character/set that immediately precedes them in the regex. But what if you would like to match multi-character repeats? Or make a substring in the pattern optional? To apply a modifier to a whole group of characters/sets, wrap the group in `()` parentheses.
+
+For example, in the string  'rain wind rainrain sunshine', we can match 'rain' and 'rainrain' with the regex `(rain)+`. This kind of grouping with `()` is used in a few different ways, as we will discover in the next couple of chapters.
+
 > #### Exercise 4.2
 > use `{}` to search `example_protein.fasta` for trytophan (W) 
 > followed by tyrosine (Y), with an increasing number of leucine (L)
@@ -92,5 +97,5 @@ matches 'GCAAAGC', 'GCAAAAAAAAGC', and any other string starting and ending with
 GCA{,4}GC
 ```
 
-matches 'GCGC', 'GCAGC', 'GCAAGC', and so on, but won't match 'GCAAAAAAGC' or any other combination containing a run of more than four 'A's between flanking 'GC' substrings.
+matches 'GCGC', 'GCAGC', 'GCAAGC', and so on, but won't match 'GCAAAAAAGC' or any other combination containing a run of more than four 'A's between flanking 'GC' substrings. This syntax, where the minimum number of matches is left blank, is only valid in a limited number of programs/environments.
 

@@ -16,7 +16,7 @@ Token | Matches                                                 | Set Equivalent
 `\d`  | Any digit                                               | `[0-9]`        |
 `\s`  | Any whitespace character (space, tab, newlines)         | `[ \t\n\r\f]`  |
 `\w`  | Any 'word character' - letters, numbers, and underscore | `[A-Za-z0-9_]` |
-`\b`  | A word boundary character                               | `[^\w]`        |
+`\b`  | A word boundary character                               | n/a        |
 `\D`  | The inverse of `\d` i.e. any character except a digit   | `[^0-9]`       |
 `\S`  | Any non-whitespace character                            | `[^ \t\n\r\f]` |
 `\W`  | Any non-word character                                  | `[^A-Za-z0-9_]`|
@@ -54,7 +54,7 @@ we ensure that we will only get matches to 'chr1' and 'chr2' as whole words, reg
 
 ### The `.` Wildcard
 
-As well as the set tokens described above, there is also the more general wildcard `.`, which can be used to match any single character. Although it can be very helpful at times, it is recommended to use a more specific token/set when possible - we will discuss more about this in the next section.
+As well as the set tokens described above, there is also the more general wildcard `.`, which can be used to match any single character. Although it can be very helpful at times, it is recommended to use a more specific token/set when possible - we will discuss more about this in the next section. Remember, to match a literal `.` character, escape it with a backslash i.e. `\.`.
 
 ### `^`Start and End`$`
 The `^` and `$` symbols are used in a regex to represent the beginning and end of the searched line - they are refered to as 'anchor' characters. This can be extremely helpful when searching for lines that begin with a particular string/pattern, but where that pattern might also be found elsewhere in the lines. 

@@ -54,7 +54,7 @@ which is a good start. But, now we need to consider how to make sure that we kee
 
 Regular expressions provide the capability to identify and store parts of a matched pattern, for reuse in the replacement string. This means that we can find and replace all of those species names in a single operation, while maintaining the specific strings that we still need. To do this, we need to use _capture groups_.
 
-In a regex, a capture group is established in with `()` parentheses, and referred to in the replacement string with `\N`, where `N` is an integer (1-9) signifying which group in the regex should be substituted in at the specified position\*. Captured groups are counted from left to right. This should be made clearer with an example below:
+As we saw in the previous chapter, a group is established in with `()` parentheses. When matched, these groups can be referred to in the replacement string with `\N`, where `N` is an integer (1-9) signifying which group in the regex should be substituted in at the specified position\*. Captured groups are counted from left to right. This should be made clearer with an example below:
 
 ```
 group_1, group_2, group_3
@@ -161,7 +161,7 @@ to the desired format:
 > The file `example_protein_malformed.fasta` is missing the `>` character at the beginning of the headers. Use a capture group to add them.
 
 
-> #### Exercise 5.1
+> #### Exercise 5.2
 > The file `file_paths.txt` contains file paths of image files. The files are organised by folders based on vacations, but the files themselves have cryptic names. You want the files to be prefixed by the vacation and move them into a shared folder. At the end the list should look like:
 >
 > ```
