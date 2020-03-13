@@ -1,0 +1,1000 @@
+#Organism_name	Organism_groups	BioProject	Assembly	Size(Mb)	GC%
+Pseudomonas_fluorescens	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900475215.1	6.51517	60
+Clostridium_perfringens_ATCC_13124	Bacteria;Terrabacteria group;Firmicutes	PRJNA304	GCA_000013285.1	3.25668	28.4
+Mycobacterium_avium_subsp._paratuberculosis_K-10	Bacteria;Terrabacteria group;Actinobacteria	PRJNA91	GCA_000007865.1	4.82978	69.3
+Tropheryma_whipplei_str._Twist	Bacteria;Terrabacteria group;Actinobacteria	PRJNA95	GCA_000007485.1	0.927303	46.3
+Actinobacillus_pleuropneumoniae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA478521	GCA_003290385.1	2.31866	41.2
+Mycobacterium_tuberculosis_H37Rv	Bacteria;Terrabacteria group;Actinobacteria	PRJNA37301	GCA_000277735.2	4.41171	65.6
+Chlamydia_pneumoniae_TW-183	Bacteria;PVC group;Chlamydiae	PRJNA420	GCA_000007205.1	1.22593	40.6
+Xylella_fastidiosa_9a5c	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA271	GCA_000006725.1	2.73175	52.6433
+Agrobacterium_tumefaciens	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA278497	GCA_000971565.1	5.66866	58.4702
+Xanthomonas_axonopodis_Xac29-1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA193074	GCA_000348585.1	5.29652	64.7171
+Fusobacterium_nucleatum_subsp._polymorphum	Bacteria;Fusobacteria;Fusobacteriia	PRJEB6403	GCA_001457555.1	2.45506	26.9878
+Histophilus_somni_2336	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA388	GCA_000019405.1	2.26386	37.4
+Vibrio_vulnificus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA312018	GCA_002215135.1	5.16313	46.5303
+Mycoplasma_hyopneumoniae_J	Bacteria;Terrabacteria group;Tenericutes	PRJNA10675	GCA_000008205.1	0.897405	28.5
+Chlorobium_phaeobacteroides_DSM_266	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA12609	GCA_000015125.1	3.1339	48.4
+Paenarthrobacter_aurescens_TC1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA12512	GCA_000014925.1	5.22665	62.3869
+Acinetobacter_baumannii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA577968	GCA_009759685.1	3.99039	39.1892
+Anaplasma_marginale_str._Florida	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA16369	GCA_000020305.1	1.20243	49.8
+Bacillus_licheniformis_DSM_13_=_ATCC_14580	Bacteria;Terrabacteria group;Firmicutes	PRJNA12388	GCA_000011645.1	4.2226	46.2
+Shigella_sonnei_53G	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA78129	GCA_000283715.1	5.22047	50.7341
+Streptococcus_thermophilus	Bacteria;Terrabacteria group;Firmicutes	PRJNA528156	GCA_010120595.1	2.10227	39
+Wolbachia_endosymbiont_strain_TRS_of_Brugia_malayi	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA12475	GCA_000008385.1	1.08008	34.2
+Synechococcus_elongatus_PCC_6301	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA13282	GCA_000010065.1	2.69625	55.5
+Shewanella_baltica_OS678	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA47019	GCA_000178875.2	5.36877	46.276
+Shewanella_putrefaciens_CN-32	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13393	GCA_000016585.1	4.65922	44.5
+Ehrlichia_ruminantium_str._Welgevonden	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA9614	GCA_000026005.1	1.51635	27.5
+Lactobacillus_reuteri_DSM_20016	Bacteria;Terrabacteria group;Firmicutes	PRJNA15766	GCA_000016825.1	1.99962	38.9
+Bacillus_pumilus	Bacteria;Terrabacteria group;Firmicutes	PRJNA276289	GCA_001578205.1	3.87881	41.4612
+Mycoplasma_genitalium_G37	Bacteria;Terrabacteria group;Tenericutes	PRJNA97	GCA_000027325.1	0.580076	31.7
+Burkholderia_cenocepacia_J2315	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA339	GCA_000009485.1	8.05578	66.9165
+Corynebacterium_jeikeium_K411	Bacteria;Terrabacteria group;Actinobacteria	PRJNA13967	GCA_000006605.1	2.47682	61.3561
+Ehrlichia_chaffeensis_str._Arkansas	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA325	GCA_000013145.1	1.17625	30.1
+Nitrosococcus_oceani_ATCC_19707	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13993	GCA_000012805.1	3.52211	50.3241
+Ralstonia_solanacearum_GMI1000	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13	GCA_000009125.1	5.81092	66.964
+Shigella_boydii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA218110	GCA_002946735.1	4.52532	51.1161
+Streptococcus_salivarius	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900636435.1	2.20615	40.1
+Rhodopseudomonas_palustris_BisB18	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA15750	GCA_000013745.1	5.51384	65
+Yersinia_pseudotuberculosis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900637475.1	4.6102	47.5
+Mycoplasma_agalactiae_PG2	Bacteria;Terrabacteria group;Tenericutes	PRJNA16095	GCA_000063605.1	0.877438	29.7
+Lactobacillus_delbrueckii_subsp._bulgaricus_ATCC_11842_=_JCM_1002	Bacteria;Terrabacteria group;Firmicutes	PRJNA16871	GCA_000056065.1	1.865	49.7
+Leptospira_borgpetersenii_serovar_Hardjo-bovis_str._L550	Bacteria;Spirochaetes;Spirochaetia	PRJNA16146	GCA_000013945.1	3.93178	40.2
+Brucella_abortus_2308	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA16203	GCA_000054005.1	3.27831	57.2353
+Mycoplasma_capricolum_subsp._capricolum_ATCC_27343	Bacteria;Terrabacteria group;Tenericutes	PRJNA16208	GCA_000012765.1	1.01002	23.8
+Bartonella_bacilliformis_KC583	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA16249	GCA_000015445.1	1.44502	38.2
+Xanthomonas_citri_subsp._citri_Aw12879	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA81931	GCA_000349225.1	5.39869	64.6642
+Campylobacter_fetus_subsp._venerealis_NCTC_10354	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA562219	GCA_008271385.1	1.91362	33.2212
+Xanthomonas_oryzae_pv._oryzae_PXO99A	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA28127	GCA_000019585.2	5.23855	63.6
+Sodalis_glossinidius_str._'morsitans'	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16309	GCA_000010085.1	4.2925	54.5066
+Salinispora_tropica_CNB-440	Bacteria;Terrabacteria group;Actinobacteria	PRJNA16342	GCA_000016425.1	5.18333	69.5
+Thermotoga_neapolitana_DSM_4359	Bacteria;Thermotogae;Thermotogae	PRJNA21023	GCA_000018945.1	1.88456	46.9
+Clostridioides_difficile	Bacteria;Terrabacteria group;Firmicutes	PRJEB7371	GCA_000953275.1	4.29305	29.1
+Roseobacter_denitrificans_OCh_114	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA16426	GCA_000014045.1	4.33123	58.9096
+Cupriavidus_pinatubonensis_JMP134	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA10646	GCA_000203875.1	7.25529	64.4539
+Desulfitobacterium_hafniense_DCB-2	Bacteria;Terrabacteria group;Firmicutes	PRJNA205	GCA_000021925.1	5.27913	47.5
+Aeromonas_salmonicida_subsp._salmonicida_A449	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16723	GCA_000196395.1	5.04054	58.1696
+Oenococcus_oeni_PSU-1	Bacteria;Terrabacteria group;Firmicutes	PRJNA317	GCA_000014385.1	1.78052	37.9
+Coxiella_burnetii_Dugway_5J108-111	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16721	GCA_000017105.1	2.21294	42.3363
+Lactobacillus_casei_DSM_20011_=_JCM_1134_=_ATCC_393	Bacteria;Terrabacteria group;Firmicutes	PRJDB480	GCA_000829055.1	2.95296	47.8636
+Salinispora_arenicola_CNS-205	Bacteria;Terrabacteria group;Actinobacteria	PRJNA17109	GCA_000018265.1	5.78636	69.5
+Desulfovibrio_vulgaris_str._'Miyazaki_F'	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA27731	GCA_000021385.1	4.0403	67.1
+Delftia_acidovorans_SPH-1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA17413	GCA_000018665.1	6.76751	66.5
+Rickettsia_bellii_RML369-C	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13996	GCA_000012385.1	1.52208	31.6
+Ralstonia_pickettii_12J	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA17631	GCA_000020205.1	5.32573	63.6234
+Lactobacillus_helveticus	Bacteria;Terrabacteria group;Firmicutes	PRJNA292623	GCA_001308285.1	2.16058	36.8
+Geobacillus_stearothermophilus_10	Bacteria;Terrabacteria group;Firmicutes	PRJNA252389	GCA_001274575.1	3.67649	52.6118
+Rickettsia_rickettsii_str._Iowa	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19943	GCA_000017445.3	1.2682	32.4
+Photobacterium_damselae_subsp._damselae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA385756	GCA_002142615.1	4.54459	40.8845
+Borreliella_afzelii_HLJ01	Bacteria;Spirochaetes;Spirochaetia	PRJNA176667	GCA_000304735.1	0.905471	28.3
+Bifidobacterium_adolescentis_ATCC_15703	Bacteria;Terrabacteria group;Actinobacteria	PRJNA16321	GCA_000010425.1	2.08964	59.2
+Vibrio_harveyi	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA231221	GCA_001558435.2	6.03893	44.9
+Saccharopolyspora_erythraea_NRRL_2338	Bacteria;Terrabacteria group;Actinobacteria	PRJEA18489	GCA_000062885.1	8.2128	71.1
+Thermoanaerobacter_ethanolicus_JW_200	Bacteria;Terrabacteria group;Firmicutes	PRJNA498490	GCA_003722315.1	2.91128	34.2
+Methylorubrum_extorquens	Bacteria;Proteobacteria;Alphaproteobacteria	PRJEB23178	GCA_900234795.1	5.71551	68.3
+Lactococcus_garvieae_ATCC_49156	Bacteria;Terrabacteria group;Firmicutes	PRJDA18705	GCA_000269925.1	1.95013	38.8
+Methylobacterium_radiotolerans_JCM_2831	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA18817	GCA_000019725.1	6.89911	71.0375
+Orientia_tsutsugamushi_str._Boryong	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA16180	GCA_000063545.1	2.12705	30.5
+Lactobacillus_fermentum_IFO_3956	Bacteria;Terrabacteria group;Firmicutes	PRJDA18979	GCA_000010145.1	2.09869	51.5
+Clostridium_kluyveri_DSM_555	Bacteria;Terrabacteria group;Firmicutes	PRJNA19065	GCA_000016505.1	4.0238	32.0206
+Porphyromonas_gingivalis_ATCC_33277	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJDA19051	GCA_000010505.1	2.35489	48.4
+Gramella_forsetii_KT0803	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJEA19061	GCA_000060345.1	3.79847	36.6
+Ureaplasma_parvum_serovar_3_str._ATCC_27815	Bacteria;Terrabacteria group;Tenericutes	PRJNA19087	GCA_000019345.1	0.751679	25.5
+Ureaplasma_urealyticum_serovar_10_str._ATCC_33699	Bacteria;Terrabacteria group;Tenericutes	PRJNA20247	GCA_000021265.1	0.874478	25.8
+Mycoplasma_mycoides_subsp._mycoides_SC_str._Gladysdale	Bacteria;Terrabacteria group;Tenericutes	PRJNA27713	GCA_000143865.1	1.19381	24
+Burkholderia_thailandensis_E264	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA10774	GCA_000012365.1	6.72397	67.6468
+Phaeobacter_gallaeciensis_DSM_26640	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA227502	GCA_000511385.1	4.54016	59.4193
+Octadecabacter_antarcticus_307	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19333	GCA_000155675.2	4.87548	54.5768
+Burkholderia_oklahomensis_C6786	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA238548	GCA_000959365.1	7.13502	67.0684
+Burkholderia_multivorans_ATCC_BAA-247	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA264318	GCA_000959525.1	6.32275	67.2008
+Ochrobactrum_anthropi_ATCC_49188	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19485	GCA_000017405.1	5.20578	56.1453
+Treponema_pallidum_subsp._pallidum_str._Sea_81-4	Bacteria;Spirochaetes;Spirochaetia	PRJNA74337	GCA_000604125.1	1.1392	52.8
+Rhizobium_leguminosarum	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA316801	GCA_001890425.1	8.44734	60.4985
+Anaeromyxobacter_dehalogenans_2CP-1	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA20095	GCA_000022145.1	5.02933	74.7
+Leptospira_biflexa_serovar_Patoc_strain_'Patoc_1_(Paris)'	Bacteria;Spirochaetes;Spirochaetia	PRJNA20133	GCA_000017685.1	3.95145	38.9018
+Brucella_canis_ATCC_23365	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA20243	GCA_000018525.1	3.31277	57.2364
+Mycobacterium_marinum_E11	Bacteria;Terrabacteria group;Actinobacteria	PRJEB5070	GCA_000723425.2	6.45052	65.7699
+Burkholderia_ambifaria_AMMD	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13490	GCA_000203915.1	7.52857	66.7904
+Brucella_suis_1330	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA320	GCA_000007505.1	3.31517	57.2364
+Bifidobacterium_dentium_JCM_1195_=_DSM_20436	Bacteria;Terrabacteria group;Actinobacteria	PRJDB59	GCA_001042595.1	2.63567	58.5
+Bradyrhizobium_japonicum_USDA_6	Bacteria;Proteobacteria;Alphaproteobacteria	PRJDA67463	GCA_000284375.1	9.20738	63.7
+Gluconacetobacter_diazotrophicus_PA1_5	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA21071	GCA_000021325.1	3.91495	66.3446
+Microcystis_aeruginosa_NIES-843	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJDA27835	GCA_000010625.1	5.84279	42.3
+Streptococcus_dysgalactiae_subsp._equisimilis_AC-2713	Bacteria;Terrabacteria group;Firmicutes	PRJNA48119	GCA_000317855.1	2.17944	39.5
+Rhizobium_etli_CFN_42	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13932	GCA_000092045.1	6.53023	61.0458
+Chromohalobacter_salexigens_DSM_3043	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA12636	GCA_000055785.1	3.69665	63.9
+Bartonella_tribocorum_CIP_105476	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA28109	GCA_000196435.1	2.6424	38.8655
+Hungateiclostridium_thermocellum_ATCC_27405	Bacteria;Terrabacteria group;Firmicutes	PRJNA314	GCA_000015865.1	3.8433	39
+Streptomyces_clavuligerus	Bacteria;Terrabacteria group;Actinobacteria	PRJNA414136	GCA_005519465.1	8.54409	72.5319
+Borreliella_garinii	Bacteria;Spirochaetes;Spirochaetia	PRJNA350560	GCA_001922545.1	1.15611	28.1739
+Chlamydia_psittaci_6BC	Bacteria;PVC group;Chlamydiae	PRJNA62889	GCA_000204255.1	1.17922	39.0603
+Bifidobacterium_animalis_subsp._animalis_ATCC_25527	Bacteria;Terrabacteria group;Actinobacteria	PRJNA41423	GCA_000260715.1	1.93269	60.5
+Bacillus_amyloliquefaciens_DSM_7_=_ATCC_23350	Bacteria;Terrabacteria group;Firmicutes	PRJEA41719	GCA_000196735.1	3.9802	46.1
+Comamonas_testosteroni_TK102	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA216961	GCA_000739375.1	6.0627	61.9
+Bacillus_mycoides	Bacteria;Terrabacteria group;Firmicutes	PRJNA238211	GCA_000832605.1	5.63705	35.3849
+Yersinia_frederiksenii_Y225	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA236482	GCA_000834215.1	4.55089	47.282
+Yersinia_kristensenii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA240099	GCA_000834865.1	4.49657	47.4
+Alteromonas_macleodii_ATCC_27126	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA29793	GCA_000172635.2	4.65385	44.7
+Stenotrophomonas_maltophilia_K279a	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA30351	GCA_000072485.1	4.85113	66.3
+Micrococcus_luteus_NCTC_2665	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20655	GCA_000023205.1	2.5011	73
+Streptococcus_equi_subsp._zooepidemicus	Bacteria;Terrabacteria group;Firmicutes	PRJEA30767	GCA_000026605.1	2.14987	41.5
+Zymomonas_mobilis_subsp._mobilis_ATCC_10988	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA30987	GCA_000175255.2	2.14346	46.0424
+Glaesserella_parasuis_SH0165	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA31099	GCA_000021885.1	2.26916	40
+Acetobacter_pasteurianus_IFO_3283-01	Bacteria;Proteobacteria;Alphaproteobacteria	PRJDA31129	GCA_000010825.1	3.34025	53.0701
+Pasteurella_multocida	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA244572	GCA_000754275.1	2.27184	40.4
+Lactobacillus_rhamnosus_GG	Bacteria;Terrabacteria group;Firmicutes	PRJEA32195	GCA_000026505.1	3.01011	46.7
+Francisella_philomiragia_subsp._philomiragia_ATCC_25015	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA239335	GCA_000833455.1	2.0174	32.6
+Thermomicrobium_roseum_DSM_5159	Bacteria;Terrabacteria group;Chloroflexi	PRJNA32569	GCA_000021685.1	2.92074	64.2598
+Fibrobacter_succinogenes_subsp._succinogenes_S85	Bacteria;FCB group;Fibrobacteres	PRJNA47	GCA_000146505.1	3.843	48
+Vibrio_splendidus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA481137	GCA_003345295.1	5.50839	44.1197
+Enterococcus_gallinarum	Bacteria;Terrabacteria group;Firmicutes	PRJNA231221	GCA_001558875.2	3.82148	42.3216
+Enterococcus_casseliflavus_EC20	Bacteria;Terrabacteria group;Firmicutes	PRJNA32935	GCA_000157355.2	3.42728	42.8
+Brucella_melitensis_bv._1_str._16M	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA180	GCA_000007125.1	3.29493	57.2357
+Dickeya_dadantii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA407418	GCA_003049785.1	4.99754	56.4
+Bacillus_megaterium_NBRC_15308_=_ATCC_14581	Bacteria;Terrabacteria group;Firmicutes	PRJNA238207	GCA_000832985.1	5.74664	37.8506
+Burkholderia_glumae_LMG_2196_=_ATCC_33617	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA259679	GCA_000960995.1	6.82073	68.1733
+Bacteroides_intestinalis	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA483945	GCA_003363675.2	5.78576	42.5
+Streptococcus_infantarius_subsp._infantarius_CJ18	Bacteria;Terrabacteria group;Firmicutes	PRJNA70717	GCA_000246835.1	2.00825	37.5743
+Clostridium_sporogenes	Bacteria;Terrabacteria group;Firmicutes	PRJNA285281	GCA_001020205.1	4.14299	28
+Providencia_stuartii_MRSN_2154	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA88059	GCA_000259175.1	4.40211	41.3
+Parvimonas_micra	Bacteria;Terrabacteria group;Firmicutes	PRJNA264589	GCA_000800295.1	1.62701	28.6
+[Clostridium]_scindens_ATCC_35704	Bacteria;Terrabacteria group;Firmicutes	PRJNA508260	GCA_004295125.1	3.65804	46.2
+Desulfovibrio_piger	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJEB16679	GCA_900116045.1	2.80753	64.2
+Bacteroides_caccae	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA393727	GCA_002222615.2	4.5708	41.9
+Bacteroides_ovatus	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA289334	GCA_001314995.1	6.47249	41.9
+Bacteroides_uniformis	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJDB8042	GCA_006742345.1	4.98953	46.2094
+Azotobacter_vinelandii_DJ	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16	GCA_000021045.1	5.36532	65.7
+Methylococcus_capsulatus_str._Bath	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA21	GCA_000008325.1	3.30456	63.6
+[Haemophilus]_ducreyi_35000HP	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA38	GCA_000007945.1	1.69895	38.2
+Dichelobacter_nodosus_VCS1703A	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA50	GCA_000015345.1	1.38935	44.4
+Rickettsia_conorii_str._Malish_7	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA42	GCA_000007025.1	1.26876	32.4
+Nitrosomonas_europaea_ATCC_19718	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA52	GCA_000009145.1	2.81209	50.7
+Acidithiobacillus_ferrooxidans_ATCC_23270	Bacteria;Proteobacteria;Acidithiobacillia	PRJNA53	GCA_000021485.1	2.9824	58.8
+Cytophaga_hutchinsonii_ATCC_33406	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA54	GCA_000014145.1	4.43322	38.8
+Ruminococcus_albus_7_=_DSM_20455	Bacteria;Terrabacteria group;Firmicutes	PRJNA42255	GCA_000179635.2	4.48209	43.6142
+Streptococcus_gordonii_str._Challis_substr._CH1	Bacteria;Terrabacteria group;Firmicutes	PRJNA66	GCA_000017005.1	2.19666	40.5
+Lactobacillus_gasseri_ATCC_33323_=_JCM_1131	Bacteria;Terrabacteria group;Firmicutes	PRJNA84	GCA_000014425.1	1.89436	35.3
+Listeria_innocua_Clip11262	Bacteria;Terrabacteria group;Firmicutes	PRJNA86	GCA_000195795.1	3.09311	37.3497
+Corynebacterium_diphtheriae	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_001457455.1	2.46367	53.5
+Thermobifida_fusca_YX	Bacteria;Terrabacteria group;Actinobacteria	PRJNA94	GCA_000012405.1	3.64225	67.5
+Mycoplasma_pulmonis	Bacteria;Terrabacteria group;Tenericutes	PRJEB6403	GCA_900660575.1	0.962791	26.5035
+Mycoplasma_penetrans_HF-2	Bacteria;Terrabacteria group;Tenericutes	PRJNA176	GCA_000011225.1	1.35863	25.7
+Geobacter_metallireducens_GS-15	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA177	GCA_000012925.1	4.01118	59.476
+Streptomyces_avermitilis_MA-4680_=_NBRC_14893	Bacteria;Terrabacteria group;Actinobacteria	PRJNA189	GCA_000009765.2	9.11989	70.6845
+Spiroplasma_kunkelii_CR2-3x	Bacteria;Terrabacteria group;Tenericutes	PRJNA270865	GCA_001274875.1	1.51456	25.0104
+Novosphingobium_aromaticivorans_DSM_12444	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA204	GCA_000013325.1	4.23331	65.1542
+Dehalococcoides_mccartyi_195	Bacteria;Terrabacteria group;Chloroflexi	PRJNA214	GCA_000011905.1	1.46972	48.9
+Nostoc_punctiforme_PCC_73102	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA216	GCA_000020025.1	9.05919	41.3416
+Chlamydia_caviae_GPIC	Bacteria;PVC group;Chlamydiae	PRJNA228	GCA_000007605.1	1.18136	39.1629
+Chlamydia_muridarum_str._Nigg	Bacteria;PVC group;Chlamydiae	PRJNA229	GCA_000006685.1	1.08045	40.2681
+Bacillus_halodurans	Bacteria;Terrabacteria group;Firmicutes	PRJNA542427	GCA_005671335.1	4.3156	43.5
+Cupriavidus_metallidurans_CH34	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA250	GCA_000196015.1	6.91335	63.5184
+Carboxydothermus_hydrogenoformans_Z-2901	Bacteria;Terrabacteria group;Firmicutes	PRJNA253	GCA_000012865.1	2.40152	42
+Paraburkholderia_xenovorans_LB400	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA254	GCA_000013645.1	9.73114	62.6336
+Wolbachia_endosymbiont_of_Drosophila_melanogaster	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA272	GCA_000008025.1	1.26778	35.2
+Wigglesworthia_glossinidia_endosymbiont_of_Glossina_brevipalpis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA274	GCA_000008885.1	0.703004	22.4962
+Colwellia_psychrerythraea_34H	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA275	GCA_000012325.1	5.37318	38
+Ruegeria_pomeroyi_DSS-3	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA281	GCA_000011965.2	4.60105	64.0504
+Oceanobacillus_iheyensis_HTE831	Bacteria;Terrabacteria group;Firmicutes	PRJNA284	GCA_000011245.1	3.63053	35.7
+Corynebacterium_efficiens_YS-314	Bacteria;Terrabacteria group;Actinobacteria	PRJNA305	GCA_000011305.1	3.2195	62.9346
+Leuconostoc_mesenteroides_subsp._mesenteroides_ATCC_8293	Bacteria;Terrabacteria group;Firmicutes	PRJNA315	GCA_000014445.1	2.07576	37.6586
+Saccharophagus_degradans_2-40	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA316	GCA_000013665.1	5.05753	45.8
+Trichodesmium_erythraeum_IMS101	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA318	GCA_000014265.1	7.75011	34.1
+Anaplasma_phagocytophilum_str._HZ	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA336	GCA_000013125.1	1.47128	41.6
+Bordetella_avium_197N	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA27	GCA_000070465.1	3.73225	61.6
+Pectobacterium_atrosepticum	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA247436	GCA_000696465.1	5.00493	51.1
+Acidobacterium_capsulatum_ATCC_51196	Bacteria;Acidobacteria;Acidobacteriia	PRJNA28085	GCA_000022565.1	4.12736	60.5
+Neorickettsia_sennetsu_str._Miyayama	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA357	GCA_000013165.1	0.859006	41.1
+Salmonella_bongori_NCTC_12419	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA351	GCA_000252995.1	4.46011	51.3
+Streptococcus_uberis_0140J	Bacteria;Terrabacteria group;Firmicutes	PRJNA353	GCA_000009545.1	1.85235	36.6
+Chlamydia_abortus	Bacteria;PVC group;Chlamydiae	PRJNA413812	GCA_002895085.1	1.14422	39.9
+Chlamydia_felis_Fe/C-56	Bacteria;PVC group;Chlamydiae	PRJNA370	GCA_000009945.1	1.17379	39.3646
+Bartonella_quintana_str._Toulouse	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA44	GCA_000046685.1	1.58138	38.8
+Rhodobacter_capsulatus_SB_1003	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA55	GCA_000021865.1	3.87192	66.5966
+Clostridium_tetani_E88	Bacteria;Terrabacteria group;Firmicutes	PRJNA81	GCA_000007625.1	2.87333	28.5917
+Lawsonia_intracellularis_PHE/MN1-00	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA183	GCA_000055945.1	1.71901	33.0922
+Helicobacter_hepaticus_ATCC_51449	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA185	GCA_000007905.1	1.79915	35.9
+Bartonella_henselae_str._Houston-1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA196	GCA_000046705.1	1.93105	38.2
+Leifsonia_xyli	Bacteria;Terrabacteria group;Actinobacteria	PRJNA314938	GCA_001647635.1	3.59676	70.2
+Mannheimia_haemolytica_M42548	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA196475	GCA_000376645.1	2.73187	41
+Pediococcus_pentosaceus_ATCC_25745	Bacteria;Terrabacteria group;Firmicutes	PRJNA398	GCA_000014505.1	1.83239	37.4
+Lactobacillus_brevis_ATCC_367	Bacteria;Terrabacteria group;Firmicutes	PRJNA404	GCA_000014465.1	2.34023	46.0393
+Brevibacterium_linens	Bacteria;Terrabacteria group;Actinobacteria	PRJNA314739	GCA_001606005.1	3.86224	64.2
+Serratia_marcescens_subsp._marcescens_Db11	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB4201	GCA_000513215.1	5.1138	59.5
+Mycoplasma_gallisepticum_str._R(low)	Bacteria;Terrabacteria group;Tenericutes	PRJNA409	GCA_000092585.1	1.0128	31.5
+Wolinella_succinogenes_DSM_1740	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA445	GCA_000196135.1	2.11036	48.5
+Chromobacterium_violaceum_ATCC_12472	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA444	GCA_000007705.1	4.75108	64.8
+Myxococcus_xanthus_DK_1622	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA1421	GCA_000012685.1	9.13976	68.9
+Mycoplasma_arthritidis	Bacteria;Terrabacteria group;Tenericutes	PRJEB6403	GCA_900660715.1	0.806209	30.7
+Methylobacillus_flagellatus_KT	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA10647	GCA_000013705.1	2.97152	55.7
+Exiguobacterium_sibiricum_255-15	Bacteria;Terrabacteria group;Firmicutes	PRJNA10649	GCA_000019905.1	3.04079	47.6793
+Kineococcus_radiotolerans_SRS30216_=_ATCC_BAA-149	Bacteria;Terrabacteria group;Actinobacteria	PRJNA10689	GCA_000017305.1	4.95667	74.2104
+Ehrlichia_canis_str._Jake	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA10694	GCA_000012565.1	1.31503	29
+Rubrobacter_xylanophilus_DSM_9941	Bacteria;Terrabacteria group;Actinobacteria	PRJNA10670	GCA_000014185.1	3.22575	70.5
+Burkholderia_vietnamiensis_LMG_10929	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA235223	GCA_000959445.1	6.9305	66.8371
+Methylibium_petroleiphilum_PM1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA10789	GCA_000015725.1	4.64364	68.7869
+Cutibacterium_acnes_KPA171202	Bacteria;Terrabacteria group;Actinobacteria	PRJNA12460	GCA_000008345.1	2.56026	60
+Staphylococcus_haemolyticus_JCSC1435	Bacteria;Terrabacteria group;Firmicutes	PRJNA12508	GCA_000009865.1	2.69786	32.7885
+Brucella_ovis_ATCC_25840	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA12514	GCA_000016845.1	3.27559	57.2
+Campylobacter_coli	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA243331	GCA_003030205.1	1.92527	31.0685
+Campylobacter_lari_RM2100	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA12517	GCA_000019205.1	1.57166	29.6177
+Mycoplasma_bovis_PG45	Bacteria;Terrabacteria group;Tenericutes	PRJNA12525	GCA_000183385.1	1.0034	29.3
+Persephonella_marina_EX-H1	Bacteria;Aquificae;Aquificae	PRJNA12526	GCA_000021565.1	1.98397	37.1242
+Simkania_negevensis_Z	Bacteria;PVC group;Chlamydiae	PRJEA49035	GCA_000237205.1	2.62838	41.6242
+Sulfurihydrogenibium_azorense_Az-Fu1	Bacteria;Aquificae;Aquificae	PRJNA12529	GCA_000021545.1	1.64088	32.8
+Chlorobium_limicola_DSM_245	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA12606	GCA_000020465.1	2.76318	51.3
+Chlorobium_phaeovibrioides_DSM_265	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA12607	GCA_000016085.1	1.96686	53
+Erwinia_amylovora_CFBP1430	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA46805	GCA_000091565.1	3.83383	53.5749
+Halobacteriovorax_marinus_SJ	Bacteria;Proteobacteria;Oligoflexia	PRJNA50431	GCA_000210915.2	3.43791	36.6997
+Proteus_mirabilis_HI4320	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA12624	GCA_000069965.1	4.0999	38.8761
+Klebsiella_oxytoca	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA246471	GCA_001022195.1	7.22729	55.2606
+Clostridium_beijerinckii	Bacteria;Terrabacteria group;Firmicutes	PRJNA260606	GCA_000833105.2	6.48539	30
+Citrobacter_koseri_ATCC_BAA-895	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA12716	GCA_000018045.1	4.73536	53.7998
+Cronobacter_sakazakii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA276173	GCA_000982825.1	4.66357	56.6285
+Prosthecochloris_aestuarii_DSM_271	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA12749	GCA_000020625.1	2.5797	50.1104
+Rickettsia_canadensis_str._McKiel	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA12952	GCA_000014345.1	1.15977	31.1
+Rickettsia_akari_str._Hartford	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA12953	GCA_000018205.1	1.23106	32.3
+Streptomyces_scabiei_87.22	Bacteria;Terrabacteria group;Actinobacteria	PRJEA40749	GCA_000091305.1	10.1487	71.5
+Desulfotalea_psychrophila_LSv54	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA12751	GCA_000025945.1	3.65963	46.6208
+Acaryochloris_marina_MBIC11017	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA12997	GCA_000018105.1	8.3616	46.9889
+Pelodictyon_phaeoclathratiforme_BU-1	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13011	GCA_000020645.1	3.01824	48.1
+Syntrophobacter_fumaroxidans_MPOB	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA13013	GCA_000014965.1	4.99025	59.9
+Syntrophomonas_wolfei_subsp._wolfei_str._Goettingen_G311	Bacteria;Terrabacteria group;Firmicutes	PRJNA13014	GCA_000014725.1	2.9362	44.9
+Hydrogenovibrio_crunogenus_XCL-2	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13018	GCA_000012605.1	2.42773	43.1
+Sulfurimonas_denitrificans_DSM_1251	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA13019	GCA_000012965.1	2.20156	34.5
+Thiobacillus_denitrificans_ATCC_25259	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13025	GCA_000012745.1	2.90981	66.1
+[Mannheimia]_succiniciproducens_MBEL55E	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13068	GCA_000007745.1	2.31408	42.5
+Nocardia_farcinica	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_001182745.2	6.45978	70.6053
+Photobacterium_profundum_SS9	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13128	GCA_000196255.1	6.40328	41.7454
+[Eubacterium]_eligens_ATCC_27750	Bacteria;Terrabacteria group;Firmicutes	PRJNA29073	GCA_000146185.1	2.83139	37.567
+Marinobacter_hydrocarbonoclasticus_ATCC_49840	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA91119	GCA_000284615.1	3.98948	57.4
+Nautilia_profundicola_AmH	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA32573	GCA_000021725.1	1.67644	33.5
+Aromatoleum_aromaticum_EbN1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13242	GCA_000025965.1	4.72726	64.6764
+Bacillus_clausii_KSM-K16	Bacteria;Terrabacteria group;Firmicutes	PRJNA13291	GCA_000009825.1	4.30387	44.8
+Gluconobacter_oxydans_H24	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA173388	GCA_000311765.1	3.81623	56.1944
+Pelobacter_carbinolicus_DSM_2380	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA13337	GCA_000012885.1	3.66589	55.1
+Wolbachia_endosymbiont_of_Drosophila_simulans_wNo	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA176302	GCA_000376585.1	1.30182	34
+Wolbachia_endosymbiont_of_Drosophila_ananassae	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA393867	GCA_008033215.1	1.40146	35.2
+Actinobacillus_succinogenes_130Z	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13370	GCA_000017245.1	2.31966	44.9
+Agrobacterium_vitis_S4	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13372	GCA_000016285.1	6.32095	57.4965
+[Bacillus]_selenitireducens_MLS10	Bacteria;Terrabacteria group;Firmicutes	PRJNA13376	GCA_000093085.1	3.59249	48.7
+Bacteroides_vulgatus_ATCC_8482	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13378	GCA_000012825.1	5.16319	42.2
+Pelobacter_propionicus_DSM_2379	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA13384	GCA_000015045.1	4.24112	58.4603
+Shewanella_amazonensis_SB2B	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13385	GCA_000015245.1	4.30614	53.6
+Shewanella_denitrificans_OS217	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13390	GCA_000013765.1	4.54591	45.1
+Shewanella_frigidimarina_NCIMB_400	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13391	GCA_000014705.1	4.84526	41.6
+Xenorhabdus_bovienii_SS-2004	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13399	GCA_000027225.1	4.2255	45
+Xenorhabdus_nematophila_AN6/1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB5061	GCA_000953355.1	4.58666	44.2573
+Spiroplasma_citri	Bacteria;Terrabacteria group;Tenericutes	PRJNA296877	GCA_001886855.1	1.64088	25.5462
+Moraxella_catarrhalis_BBH18	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA46869	GCA_000092265.1	1.86329	41.7
+Mycoplasma_fermentans_M64	Bacteria;Terrabacteria group;Tenericutes	PRJNA13415	GCA_000186005.1	1.11875	26.9
+Polaromonas_naphthalenivorans_CJ2	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13418	GCA_000015505.1	5.36614	61.6566
+Citrobacter_rodentium_ICC168	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA34685	GCA_000027085.1	5.44428	54.5286
+Deinococcus_geothermalis_DSM_11300	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA13423	GCA_000196275.1	3.24702	66.4409
+Desulfotomaculum_reducens_MI-1	Bacteria;Terrabacteria group;Firmicutes	PRJNA13424	GCA_000016165.1	3.6081	42.3
+Helicobacter_mustelae	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJEB6403	GCA_900476215.1	1.57661	42.5
+Heliobacterium_modesticaldum_Ice1	Bacteria;Terrabacteria group;Firmicutes	PRJNA13427	GCA_000019165.1	3.07541	57
+Listeria_ivanovii_subsp._londoniensis	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900637745.1	3.00712	37
+Listeria_seeligeri_serovar_1/2b_str._SLCC3954	Bacteria;Terrabacteria group;Firmicutes	PRJEA41123	GCA_000027145.1	2.79764	37.4
+Listeria_welshimeri_serovar_6b_str._SLCC5334	Bacteria;Terrabacteria group;Firmicutes	PRJNA13443	GCA_000060285.1	2.81413	36.4
+Nodularia_spumigena_UHCC_0039	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA352241	GCA_003054475.1	5.38661	41.264
+Pseudoalteromonas_atlantica_T6c	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13454	GCA_000014225.1	5.18701	44.6
+Pseudoalteromonas_tunicata	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA485019	GCA_003568825.1	4.96752	39.9011
+Roseiflexus_castenholzii_DSM_13941	Bacteria;Terrabacteria group;Chloroflexi	PRJNA13462	GCA_000017805.1	5.7233	60.7
+Caldicellulosiruptor_saccharolyticus_DSM_8903	Bacteria;Terrabacteria group;Firmicutes	PRJNA13466	GCA_000016545.1	2.97027	35.3
+Herminiimonas_arsenicoxydans	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13467	GCA_000026125.1	3.42431	54.3
+Edwardsiella_ictaluri_93-146	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA34853	GCA_000022885.2	3.8123	57.4
+Neisseria_lactamica_020-06	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13472	GCA_000196295.1	2.22061	52.3
+Nitrobacter_hamburgensis_X14	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13473	GCA_000013885.1	5.01152	61.6047
+Nitrobacter_winogradskyi_Nb-255	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13474	GCA_000012725.1	3.40209	62
+Aster_yellows_witches'-broom_phytoplasma_AYWB	Bacteria;Terrabacteria group;Tenericutes	PRJNA13478	GCA_000012225.1	0.72397	26.8254
+Erythrobacter_litoralis	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA339618	GCA_001719165.1	3.25135	65.2
+Parabacteroides_distasonis_ATCC_8503	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13485	GCA_000012845.1	4.81138	45.1
+Bifidobacterium_breve_DSM_20213_=_JCM_1192	Bacteria;Terrabacteria group;Actinobacteria	PRJDB57	GCA_001025175.1	2.26941	58.9
+Clostridium_ljungdahlii_DSM_13528	Bacteria;Terrabacteria group;Firmicutes	PRJNA13492	GCA_000143685.1	4.63007	31.1
+Psychroflexus_torquis_ATCC_700755	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13542	GCA_000153485.2	4.32183	34.5
+Croceibacter_atlanticus_HTCC2559	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13570	GCA_000196315.1	2.95296	33.9
+Rhodococcus_jostii_RHA1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA13693	GCA_000014565.1	9.70274	66.9735
+Rickettsia_felis_URRWXCal2	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13884	GCA_000012145.1	1.58724	32.5609
+Shewanella_loihica_PV-4	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13906	GCA_000016065.1	4.60259	53.7
+Sphingopyxis_alaskensis_RB2256	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13907	GCA_000013985.1	3.37371	65.4569
+Rhodoferax_ferrireducens_T118	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13908	GCA_000013605.1	4.96978	59.6151
+Nitrosospira_multiformis_ATCC_25196	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13912	GCA_000196355.1	3.23431	53.835
+Nitrosomonas_eutropha_C91	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA13913	GCA_000014765.1	2.78182	48.5544
+Psychrobacter_cryohalolentis_K5	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13920	GCA_000013905.1	3.1011	42.2468
+Chlorobium_chlorochromatii_CaD3	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13921	GCA_000012585.1	2.57208	44.3
+Staphylococcus_saprophyticus_subsp._saprophyticus_ATCC_15305_=_NCTC_7292	Bacteria;Terrabacteria group;Firmicutes	PRJNA15596	GCA_000010125.1	2.5779	33.1473
+Pseudothermotoga_lettingae_TMO	Bacteria;Thermotogae;Thermotogae	PRJNA15644	GCA_000017865.1	2.13534	38.7
+Gimesia_maris	Bacteria;PVC group;Planctomycetes	PRJNA564883	GCA_009720545.1	7.81825	50.4
+Stigmatella_aurantiaca_DW4/3-1	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA52561	GCA_000165485.1	10.2608	67.5
+Bacillus_coagulans	Bacteria;Terrabacteria group;Firmicutes	PRJNA285520	GCA_001039495.1	3.69484	46.2
+Desulfovibrio_magneticus_RS-1	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJDA32105	GCA_000010665.1	5.31562	62.7043
+Herbaspirillum_seropedicae	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA287245	GCA_001040945.1	5.50972	63.4
+Shewanella_violacea_DSS12	Bacteria;Proteobacteria;Gammaproteobacteria	PRJDA34739	GCA_000091325.1	4.9621	44.7
+Xanthobacter_autotrophicus_Py2	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA15756	GCA_000017645.1	5.6251	67.3763
+Alkalilimnicola_ehrlichii_MLHE-1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA15763	GCA_000014785.1	3.27594	67.5
+Halorhodospira_halophila_SL1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA15767	GCA_000015585.1	2.67845	68
+Geobacter_uraniireducens_Rf4	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA15768	GCA_000016745.1	5.13636	54.2
+Hahella_chejuensis_KCTC_2396	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16064	GCA_000012985.1	7.21527	53.9
+Mycolicibacterium_vanbaalenii_PYR-1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA15761	GCA_000015305.1	6.49186	67.8
+Paenibacillus_polymyxa_SC2	Bacteria;Terrabacteria group;Firmicutes	PRJNA52019	GCA_000164985.2	6.23851	44.5786
+Leuconostoc_citreum_KM20	Bacteria;Terrabacteria group;Firmicutes	PRJNA16062	GCA_000026405.1	1.89661	38.8804
+Alkaliphilus_oremlandii_OhILAs	Bacteria;Terrabacteria group;Firmicutes	PRJNA16083	GCA_000018325.1	3.12356	36.3
+Flavobacterium_johnsoniae_UW101	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA16082	GCA_000016645.1	6.09687	34.1
+Collimonas_fungivorans	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA299268	GCA_001584145.1	5.59973	59
+Legionella_longbeachae_NSW150	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA39579	GCA_000091785.1	4.14916	37.119
+Acidothermus_cellulolyticus_11B	Bacteria;Terrabacteria group;Actinobacteria	PRJNA16097	GCA_000015025.1	2.44354	66.9
+Zobellia_galactanivorans	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJEB8976	GCA_000973105.1	5.52171	42.8
+Yersinia_intermedia	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900635455.1	4.75728	47.5
+Burkholderia_dolosa_AU0158	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA235220	GCA_000959505.1	6.40909	67.0353
+Psychromonas_ingrahamii_37	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16187	GCA_000015285.1	4.5596	40.1
+Syntrophus_aciditrophicus_SB	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA16258	GCA_000013405.1	3.1793	51.5
+Ramlibacter_tataouinensis_TTB310	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA16294	GCA_000215705.1	4.07019	70
+Lachnoclostridium_phytofermentans_ISDg	Bacteria;Terrabacteria group;Firmicutes	PRJNA16184	GCA_000018685.1	4.84759	35.3
+Halothermothrix_orenii_H_168	Bacteria;Terrabacteria group;Firmicutes	PRJNA16377	GCA_000020485.1	2.57815	37.9
+Polynucleobacter_necessarius_STIR1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA19991	GCA_000019745.1	1.56047	45.6
+Deinococcus_deserti_VCD115	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA16691	GCA_000020685.1	3.85533	62.9751
+Propionibacterium_freudenreichii_subsp._freudenreichii	Bacteria;Terrabacteria group;Actinobacteria	PRJNA269789	GCA_000940845.1	2.64917	67.3
+Chloroflexus_aggregans_DSM_9485	Bacteria;Terrabacteria group;Chloroflexi	PRJNA16708	GCA_000021945.1	4.68493	56.4
+Fervidobacterium_nodosum_Rt17-B1	Bacteria;Thermotogae;Thermotogae	PRJNA16719	GCA_000017545.1	1.94894	35
+Pseudomonas_entomophila_L48	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA16800	GCA_000026105.1	5.88878	64.2
+Pseudomonas_stutzeri	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA68131	GCA_000219605.1	4.54793	63.9
+Clostridium_novyi_NT	Bacteria;Terrabacteria group;Firmicutes	PRJNA16820	GCA_000014125.1	2.54772	28.9
+Moraxella_bovis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA477706	GCA_003287015.1	2.91121	43.8791
+Streptococcus_iniae	Bacteria;Terrabacteria group;Firmicutes	PRJNA271544	GCA_000831485.1	2.08696	36.8
+Thermotoga_petrophila_RKU-1	Bacteria;Thermotogae;Thermotogae	PRJNA17089	GCA_000016785.1	1.82351	46.1
+Granulibacter_bethesdensis_CGDNIH1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA17111	GCA_000014285.2	2.70843	59.1
+Campylobacter_concisus	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA275352	GCA_001298465.1	1.84004	37.6
+Campylobacter_curvus_525.92	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA17161	GCA_000017465.2	1.97127	44.5
+Verminephrobacter_eiseniae_EF01-2	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA17187	GCA_000015565.1	5.59794	65.2627
+Thermosipho_melanesiensis_BI429	Bacteria;Thermotogae;Thermotogae	PRJNA17249	GCA_000016905.1	1.91524	31.4
+Helicobacter_acinonychis_str._Sheeba	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA17251	GCA_000009305.1	1.55759	38.1915
+Maricaulis_maris_MCS10	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA17333	GCA_000014745.1	3.36878	62.7
+Frankia_alni_ACN14a	Bacteria;Terrabacteria group;Actinobacteria	PRJNA17403	GCA_000058485.1	7.49793	72.8
+Paraburkholderia_phymatum_STM815	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA17409	GCA_000020045.1	8.67656	62.2803
+Shewanella_pealeana_ATCC_700345	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA17415	GCA_000018285.1	5.17458	44.7
+Dinoroseobacter_shibae_DFL_12_=_DSM_16493	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA17417	GCA_000018145.1	4.41787	65.5105
+Ruminiclostridium_cellulolyticum_H10	Bacteria;Terrabacteria group;Firmicutes	PRJNA17419	GCA_000022065.1	4.06872	37.4
+Geobacter_lovleyi_SZ	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA17423	GCA_000020385.1	3.99487	54.7653
+Sphingomonas_wittichii_RW1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA17343	GCA_000016765.1	5.91525	67.9033
+Shewanella_woodyi_ATCC_51908	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA17455	GCA_000019525.1	5.9354	43.7
+Pseudomonas_mendocina_ymp	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA17457	GCA_000016565.1	5.07281	64.7
+Serratia_proteamaculans	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA587215	GCA_009660185.1	5.59326	54.9
+Paraburkholderia_phytofirmans_PsJN	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA17463	GCA_000020125.1	8.21466	62.3159
+Parvibaculum_lavamentivorans_DS-1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA17639	GCA_000017565.1	3.91474	62.3
+Shewanella_piezotolerans_WP3	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA17675	GCA_000014885.1	5.39648	43.3
+Petrotoga_mobilis_SJ95	Bacteria;Thermotogae;Thermotogae	PRJNA17679	GCA_000018605.1	2.16955	34.1
+Geobacter_bemidjiensis_Bem	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA17707	GCA_000020725.1	4.61515	60.3
+Desulfococcus_oleovorans_Hxd3	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA18007	GCA_000018405.1	3.94417	56.2
+Borrelia_duttonii_Ly	Bacteria;Spirochaetes;Spirochaetia	PRJNA18231	GCA_000019685.1	1.57488	28.0227
+Borrelia_recurrentis_A1	Bacteria;Spirochaetes;Spirochaetia	PRJNA18233	GCA_000019705.1	1.24216	27.5118
+Candidatus_Vesicomyosocius_okutanii_HA	Bacteria;Proteobacteria;Gammaproteobacteria	PRJDA18267	GCA_000010405.1	1.02215	31.6
+Rhodospirillum_centenum_SW	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA18307	GCA_000016185.1	4.35554	70.5
+Labrenzia_aggregata	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA369708	GCA_001999245.1	6.65099	58.8635
+Geobacillus_thermodenitrificans_NG80-2	Bacteria;Terrabacteria group;Firmicutes	PRJNA18655	GCA_000015745.1	3.60801	48.8513
+Shewanella_sediminis_HAW-EB3	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA18789	GCA_000018025.1	5.51767	46.1
+Finegoldia_magna_ATCC_29328	Bacteria;Terrabacteria group;Firmicutes	PRJDA18981	GCA_000010185.1	1.98674	32.0524
+Magnetospirillum_gryphiswaldense_MSR-1_v2	Bacteria;Proteobacteria;Alphaproteobacteria	PRJEB4690	GCA_000513295.1	4.3658	63.3
+Neorickettsia_risticii_str._Illinois	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19099	GCA_000022525.1	0.879977	41.3
+Renibacterium_salmoninarum_ATCC_33209	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19227	GCA_000018885.1	3.15525	56.3
+Acholeplasma_laidlawii_PG-8A	Bacteria;Terrabacteria group;Tenericutes	PRJNA19259	GCA_000018785.1	1.49699	31.9
+Azorhizobium_caulinodans_ORS_571	Bacteria;Proteobacteria;Alphaproteobacteria	PRJDA19267	GCA_000010525.1	5.36977	67.3
+Marinitoga_piezophila_KA3	Bacteria;Thermotogae;Thermotogae	PRJNA66025	GCA_000255135.1	2.24479	29.1839
+Caldanaerobacter_subterraneus_subsp._tengcongensis_MB4	Bacteria;Terrabacteria group;Firmicutes	PRJNA249	GCA_000007085.1	2.68945	37.6
+Roseobacter_litoralis_Och_149	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19357	GCA_000154785.2	4.74545	57.2249
+Burkholderia_ubonensis_MSMB22	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA239258	GCA_000959245.1	7.18907	67.3091
+Methylorubrum_populi_BJ001	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19559	GCA_000019945.1	5.849	69.3702
+Lysinibacillus_sphaericus	Bacteria;Terrabacteria group;Firmicutes	PRJNA376811	GCA_002982115.1	4.68172	37.3
+Elusimicrobium_minutum_Pei191	Bacteria;Elusimicrobia;Elusimicrobia	PRJNA19701	GCA_000020145.1	1.64356	40
+Borreliella_valaisiana_Tom4006	Bacteria;Spirochaetes;Spirochaetia	PRJNA218504	GCA_000739475.1	0.992695	27.9977
+Phenylobacterium_zucineum_HLK1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA19931	GCA_000017265.1	4.37923	71.0551
+Flavobacterium_psychrophilum_FPG3	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA236029	GCA_000754405.1	2.71591	32.7
+Opitutus_terrae_PB90-1	Bacteria;PVC group;Verrucomicrobia	PRJNA19989	GCA_000019965.1	5.95761	65.3
+Pseudarthrobacter_chlorophenolicus_A6	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20011	GCA_000022025.1	4.98087	65.9781
+Clostridium_butyricum	Bacteria;Terrabacteria group;Firmicutes	PRJNA304074	GCA_001456065.2	4.62789	28.7132
+Leptothrix_cholodnii_SP-6	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA20039	GCA_000019785.1	4.9094	68.9
+Campylobacter_hominis_ATCC_BAA-381	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA20083	GCA_000017585.1	1.71495	31.7051
+Pseudarthrobacter_phenanthrenivorans_Sphe3	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20087	GCA_000189535.1	4.53532	65.3822
+Akkermansia_muciniphila_ATCC_BAA-835	Bacteria;PVC group;Verrucomicrobia	PRJNA20089	GCA_000020225.1	2.6641	55.8
+Natranaerobius_thermophilus_JW/NM-WN-LF	Bacteria;Terrabacteria group;Firmicutes	PRJNA20207	GCA_000020005.1	3.19145	36.287
+Macrococcus_caseolyticus_JCSC5402	Bacteria;Terrabacteria group;Firmicutes	PRJDA20209	GCA_000010585.1	2.21974	36.5846
+Shewanella_halifaxensis_HAW-EB4	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA20241	GCA_000019185.1	5.22692	44.6
+Paraburkholderia_graminis	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA417370	GCA_003330785.1	7.50845	62.8376
+Erwinia_tasmaniensis_Et1/99	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA20585	GCA_000026185.1	4.06786	53.3601
+Methylocella_silvestris_BL2	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA20635	GCA_000021745.1	4.30543	63.1
+Beijerinckia_indica_subsp._indica_ATCC_9039	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA20841	GCA_000019845.1	4.41862	57.0207
+uncultured_Termite_group_1_bacterium_phylotype_Rs-D17	Bacteria;Elusimicrobia;environmental samples	PRJDA20871	GCA_000146025.1	1.14857	35.1773
+Desulfobacterium_autotrophicum_HRM2	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA20931	GCA_000020365.1	5.65778	48.7174
+Methylobacterium_nodulans_ORS_2060	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA20477	GCA_000022085.1	8.83902	68.485
+Gemmata_obscuriglobus	Bacteria;PVC group;Planctomycetes	PRJNA485700	GCA_008065095.1	8.9992	67.4
+Gemmatimonas_aurantiaca_T-27	Bacteria;FCB group;Gemmatimonadetes	PRJDA18501	GCA_000010305.1	4.63696	64.3
+Rhodococcus_erythropolis	Bacteria;Terrabacteria group;Actinobacteria	PRJNA280916	GCA_000975175.1	6.8652	62.2758
+Psychrobacter_arcticus_273-4	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA9633	GCA_000012305.1	2.6507	42.8
+Dechloromonas_aromatica_RCB	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA9635	GCA_000012425.1	4.5011	59.2
+Bdellovibrio_bacteriovorus_HD100	Bacteria;Proteobacteria;Oligoflexia	PRJNA9637	GCA_000196175.1	3.78295	50.6
+Lactobacillus_johnsonii_NCC_533	Bacteria;Terrabacteria group;Firmicutes	PRJNA9638	GCA_000008065.1	1.99268	34.6
+Prevotella_ruminicola_23	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA10619	GCA_000025925.1	3.61956	47.7
+Mycoplasma_synoviae_ATCC_25204	Bacteria;Terrabacteria group;Tenericutes	PRJNA278855	GCA_000969765.1	0.846495	28.3
+Rickettsia_typhi_str._Wilmington	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA10679	GCA_000008045.1	1.1115	28.9
+Mycoplasma_mobile_163K	Bacteria;Terrabacteria group;Tenericutes	PRJNA10697	GCA_000008365.1	0.777079	25
+Idiomarina_loihiensis_L2TR	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA10790	GCA_000008465.1	2.83932	47
+Ammonifex_degensii_KC4	Bacteria;Terrabacteria group;Firmicutes	PRJNA12390	GCA_000024605.1	2.15707	59.4168
+Symbiobacterium_thermophilum_IAM_14863	Bacteria;Terrabacteria group;Firmicutes	PRJNA12994	GCA_000009905.1	3.56614	68.7
+Alcanivorax_borkumensis_SK2	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13005	GCA_000009365.1	3.12014	54.7
+Alkaliphilus_metalliredigens_QYMF	Bacteria;Terrabacteria group;Firmicutes	PRJNA13006	GCA_000016985.1	4.92957	36.8
+Pelodictyon_luteolum_DSM_273	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13012	GCA_000012485.1	2.36484	57.3
+Paracoccus_denitrificans_PD1222	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13020	GCA_000203895.1	5.23619	66.783
+Geobacillus_kaustophilus_NBRC_102445	Bacteria;Terrabacteria group;Firmicutes	PRJNA531185	GCA_005160065.1	3.67096	51.9
+Shewanella_benthica	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB25587	GCA_900476435.1	4.35351	45.9
+Mycoplasma_haemofelis_str._Langford_1	Bacteria;Terrabacteria group;Tenericutes	PRJEA61503	GCA_000200735.1	1.14726	38.9
+Lactobacillus_sakei_subsp._sakei_DSM_20017_=_JCM_1157	Bacteria;Terrabacteria group;Firmicutes	PRJDB5233	GCA_002370355.1	1.94314	41.1834
+Listeria_grayi	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900638015.1	2.7511	41.6
+Yoonia_vestfoldensis	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA380207	GCA_002158905.1	3.98736	60.6796
+Robiginitalea_biformata_HTCC2501	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA13461	GCA_000024125.1	3.53038	55.3
+Paenibacillus_larvae_subsp._larvae	Bacteria;Terrabacteria group;Firmicutes	PRJNA362897	GCA_002003265.1	4.28995	44.2
+Dokdonia_donghaensis_DSW-1	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA191952	GCA_001653755.1	3.29394	38.2
+Borrelia_turicatae_91E135	Bacteria;Spirochaetes;Spirochaetia	PRJNA13597	GCA_000012085.2	1.16536	29.4619
+Parvularcula_bermudensis_HTCC2503	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA13509	GCA_000152825.2	2.90264	60.7
+Acidovorax_avenae_subsp._avenae_ATCC_19860	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA37867	GCA_000176855.2	5.48217	68.8
+Hyphomonas_neptunium_ATCC_15444	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA15721	GCA_000013025.1	3.70502	61.9
+Arcobacter_butzleri_RM4018	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA16319	GCA_000014025.1	2.34125	27
+Xanthomonas_albilineans_GPE_PC73	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA16687	GCA_000087965.1	3.8523	62.9055
+Mycoplasma_leachii_PG50	Bacteria;Terrabacteria group;Tenericutes	PRJNA27715	GCA_000183365.1	1.00895	23.8
+Thermosipho_africanus_TCF52B	Bacteria;Thermotogae;Thermotogae	PRJNA27767	GCA_000021285.1	2.01666	30.8
+Kocuria_rhizophila_DC2201	Bacteria;Terrabacteria group;Actinobacteria	PRJDA27833	GCA_000010285.1	2.69754	71.2
+Mycobacterium_intracellulare_ATCC_13950	Bacteria;Terrabacteria group;Actinobacteria	PRJNA82157	GCA_000277125.1	5.4024	68.1
+Sorangium_cellulosum_So_ce56	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA28111	GCA_000067165.1	13.0338	71.4
+Bordetella_petrii	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA28135	GCA_000067205.1	5.28795	65.5
+Anoxybacillus_flavithermus_WK1	Bacteria;Terrabacteria group;Firmicutes	PRJNA28245	GCA_000019045.1	2.84675	41.8
+Cellvibrio_japonicus_Ueda107	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA28329	GCA_000019225.1	4.57657	52
+Mycolicibacterium_gilvum_Spyr1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA28521	GCA_000184435.1	5.78329	67.8018
+Edwardsiella_tarda_EIB202	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA28539	GCA_000020865.1	3.80417	59.6724
+Streptomyces_pristinaespiralis	Bacteria;Terrabacteria group;Actinobacteria	PRJNA281980	GCA_001278075.1	8.53259	71.5
+Acetoanaerobium_sticklandii	Bacteria;Terrabacteria group;Firmicutes	PRJNA28575	GCA_000196455.1	2.71546	33.3
+Thermus_aquaticus_Y51MC23	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA274060	GCA_001399775.1	2.33864	68.0413
+Oligotropha_carboxidovorans_OM5	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA41025	GCA_000218565.1	3.89607	62.3535
+Bacillus_pseudofirmus_OF4	Bacteria;Terrabacteria group;Firmicutes	PRJNA28811	GCA_000005825.2	4.24925	39.8927
+Escherichia_albertii_KF1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA232181	GCA_000512125.1	4.70188	49.7
+Methylacidiphilum_infernorum_V4	Bacteria;PVC group;Verrucomicrobia	PRJNA28995	GCA_000019665.1	2.28715	45.5
+Lactobacillus_buchneri_CD034	Bacteria;Terrabacteria group;Firmicutes	PRJNA71051	GCA_000298115.2	2.56317	44.2381
+Mycoplasma_crocodyli_MP145	Bacteria;Terrabacteria group;Tenericutes	PRJNA29021	GCA_000025845.1	0.934379	27
+[Eubacterium]_rectale_ATCC_33656	Bacteria;Terrabacteria group;Firmicutes	PRJNA29071	GCA_000020605.1	3.44969	41.5
+Brevibacillus_brevis_NBRC_100599	Bacteria;Terrabacteria group;Firmicutes	PRJDA29147	GCA_000010165.1	6.29644	47.3
+Butyrivibrio_proteoclasticus_B316	Bacteria;Terrabacteria group;Firmicutes	PRJNA29153	GCA_000145035.1	4.40489	39.999
+Thioalkalivibrio_sulfidiphilus_HL-EbGr7	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA29177	GCA_000021985.1	3.46455	65.1
+Corynebacterium_urealyticum_DSM_7109	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29211	GCA_000069945.1	2.36922	64.2
+Chlorobaculum_parvum_NCIB_8327	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA29213	GCA_000020505.1	2.28925	55.8
+Chloroherpeton_thalassium_ATCC_35110	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA29215	GCA_000020525.1	3.29346	45
+Caldicellulosiruptor_bescii_DSM_6725	Bacteria;Terrabacteria group;Firmicutes	PRJNA29407	GCA_000022325.1	2.93166	35.2189
+Kosmotoga_olearia_TBF_19.5.1	Bacteria;Thermotogae;Thermotogae	PRJNA29419	GCA_000023325.1	2.30213	41.5
+Clostridium_carboxidivorans_P7	Bacteria;Terrabacteria group;Firmicutes	PRJNA285141	GCA_001038625.1	5.75278	29.8917
+Desulfovibrio_salexigens_DSM_2638	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA29541	GCA_000023445.1	4.28985	47.1
+Borrelia_hermsii_HS1	Bacteria;Spirochaetes;Spirochaetia	PRJNA311246	GCA_001660005.1	1.39001	30.248
+Yersinia_aldovae_670-83	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA236105	GCA_000834395.1	4.47109	47.7
+Yersinia_rohdei	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA240109	GCA_000834455.1	4.37225	47
+Yersinia_ruckeri	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA310959	GCA_002192595.1	3.85663	47.7
+Pirellula_staleyi_DSM_6068	Bacteria;PVC group;Planctomycetes	PRJNA29845	GCA_000025185.1	6.1962	57.5
+Treponema_primitia_ZAS-2	Bacteria;Spirochaetes;Spirochaetia	PRJNA30189	GCA_000214375.1	4.05987	50.8
+Treponema_azotonutricium_ZAS-9	Bacteria;Spirochaetes;Spirochaetia	PRJNA30191	GCA_000214355.1	3.85567	49.8
+Alicyclobacillus_acidocaldarius_subsp._acidocaldarius_DSM_446	Bacteria;Terrabacteria group;Firmicutes	PRJNA29405	GCA_000024285.1	3.20569	61.8577
+Rhodococcus_opacus_B4	Bacteria;Terrabacteria group;Actinobacteria	PRJDA34839	GCA_000010805.1	8.83494	67.6253
+Variovorax_paradoxus_S110	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA30453	GCA_000023345.1	6.755	67.4998
+Photorhabdus_asymbiotica	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA30577	GCA_000196475.1	5.09414	42.1902
+Treponema_paraluiscuniculi_Cuniculi_A	Bacteria;Spirochaetes;Spirochaetia	PRJNA30657	GCA_000217655.1	1.13339	52.7
+Coprothermobacter_proteolyticus_DSM_5265	Bacteria;Coprothermobacterota;Coprothermobacteria	PRJNA30729	GCA_000020945.1	1.42491	44.8
+Dictyoglomus_thermophilum_H-6-12	Bacteria;Dictyoglomi;Dictyoglomia	PRJNA30731	GCA_000020965.1	1.95999	33.7
+Aliivibrio_salmonicida_LFI1238	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA30703	GCA_000196495.1	4.65566	38.9398
+Laribacter_hongkongensis_HLHK9	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA30817	GCA_000021025.1	3.16933	62.4
+Ferrimonas_balearica_DSM_9799	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA30799	GCA_000148645.1	4.27916	60.2
+'Nostoc_azollae'_0708	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA30807	GCA_000196515.1	5.48614	38.3265
+Teredinibacter_turnerae_T7901	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA30839	GCA_000023025.1	5.19316	50.9
+Mycobacterium_kansasii_ATCC_12478	Bacteria;Terrabacteria group;Actinobacteria	PRJNA30907	GCA_000157895.2	6.57723	66.1912
+Thermosediminibacter_oceani_DSM_16646	Bacteria;Terrabacteria group;Firmicutes	PRJNA30983	GCA_000144645.1	2.28003	46.8
+Halothiobacillus_neapolitanus_c2	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA31049	GCA_000024765.1	2.58289	54.7
+Pectobacterium_carotovorum_subsp._carotovorum_PC1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA31289	GCA_000023605.1	4.86291	51.9
+Brachyspira_hyodysenteriae_ATCC_27164	Bacteria;Spirochaetes;Spirochaetia	PRJNA322728	GCA_001676785.2	3.07404	27.0512
+Pectobacterium_wasabiae_CFBP_3304	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA320083	GCA_001742185.1	5.04323	50.6
+Dickeya_zeae_EC1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA229184	GCA_000816045.1	4.53236	53.4
+Bacillus_vallismortis	Bacteria;Terrabacteria group;Firmicutes	PRJNA427088	GCA_004116955.1	4.28636	43.8
+Kyrpidia_tusciae_DSM_2912	Bacteria;Terrabacteria group;Firmicutes	PRJNA31345	GCA_000092905.1	3.38477	59.1
+Sulfurimonas_autotrophica_DSM_16294	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA31347	GCA_000147355.1	2.1532	35.2
+Rothia_mucilaginosa_DY-18	Bacteria;Terrabacteria group;Actinobacteria	PRJDA38547	GCA_000011025.1	2.2646	59.6
+Streptomyces_albus	Bacteria;Terrabacteria group;Actinobacteria	PRJNA271625	GCA_000827005.1	8.38467	72.6
+Aggregatibacter_actinomycetemcomitans	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA288377	GCA_001594265.1	2.36791	44.2
+Serratia_symbiotica	Bacteria;Proteobacteria;Gammaproteobacteria	PRJDB7971	GCA_008370165.1	2.81896	51.8861
+Allochromatium_vinosum_DSM_180	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA32547	GCA_000025485.1	3.66907	64.2117
+Ilyobacter_polytropus_DSM_2926	Bacteria;Fusobacteria;Fusobacteriia	PRJNA32577	GCA_000165505.1	3.13231	34.3553
+Thermoanaerobacter_brockii_subsp._finnii_Ako-1	Bacteria;Terrabacteria group;Firmicutes	PRJNA32585	GCA_000175295.2	2.34482	34.5
+Aminobacterium_colombiense_DSM_12261	Bacteria;Synergistetes;Synergistia	PRJNA32587	GCA_000025885.1	1.98059	45.3
+Halanaerobium_praevalens_DSM_2228	Bacteria;Terrabacteria group;Firmicutes	PRJNA32591	GCA_000165465.1	2.30926	30.3
+Arcobacter_nitrofigilis_DSM_7299	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA32593	GCA_000092245.1	3.19224	28.4
+Asticcacaulis_excentricus_CB_48	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA32595	GCA_000175215.2	4.30878	59.5298
+Brucella_microti_CCM_4915	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA32233	GCA_000022745.1	3.33737	57.2366
+Sediminispirochaeta_smaragdinae_DSM_11293	Bacteria;Spirochaetes;Spirochaetia	PRJNA32637	GCA_000143985.1	4.65397	49
+Anaplasma_centrale_str._Israel	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA32765	GCA_000024505.1	1.20681	50
+Acetohalobium_arabaticum_DSM_5501	Bacteria;Terrabacteria group;Firmicutes	PRJNA32769	GCA_000144695.1	2.4696	36.6
+Isosphaera_pallida_ATCC_43644	Bacteria;PVC group;Planctomycetes	PRJNA32825	GCA_000186345.1	5.5293	62.4469
+Gallionella_capsiferriformans_ES-2	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA32827	GCA_000145255.1	3.16247	52.8
+Clostridium_cellulovorans_743B	Bacteria;Terrabacteria group;Firmicutes	PRJNA32609	GCA_000145275.1	5.26222	31.2
+Leptotrichia_hofstadii	Bacteria;Fusobacteria;Fusobacteriia	PRJDB7856	GCA_007990525.1	2.60438	30.5901
+Thermoanaerobacter_italicus_Ab9	Bacteria;Terrabacteria group;Firmicutes	PRJNA33157	GCA_000025645.1	2.45106	34.1
+Sideroxydans_lithotrophicus_ES-1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA33161	GCA_000025705.1	3.00366	57.5
+Thermoanaerobacterium_thermosaccharolyticum_DSM_571	Bacteria;Terrabacteria group;Firmicutes	PRJNA33165	GCA_000145615.1	2.78575	34.1
+Hirschia_baltica_ATCC_49814	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA33191	GCA_000023785.1	3.54011	45.1594
+Methylovorus_glucosetrophus_SIP3-4	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA33241	GCA_000023745.1	3.08201	54.6472
+Hyphomicrobium_denitrificans_ATCC_51888	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA33261	GCA_000143145.1	3.63897	60.8
+Thermoanaerobacter_mathranii_subsp._mathranii_str._A3	Bacteria;Terrabacteria group;Firmicutes	PRJNA33329	GCA_000092965.1	2.30609	34.3
+Coraliomargarita_akajimensis_DSM_45221	Bacteria;PVC group;Verrucomicrobia	PRJNA33365	GCA_000025905.1	3.75077	53.6
+Escherichia_fergusonii_ATCC_35469	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA33369	GCA_000026225.1	4.64386	49.8834
+Streptococcus_intermedius_B196	Bacteria;Terrabacteria group;Firmicutes	PRJNA50415	GCA_000463355.1	1.99621	37.6
+Desulfurivibrio_alkaliphilus_AHT_2	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA33629	GCA_000092205.1	3.09776	60.3
+Thiomonas_intermedia	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA359731	GCA_002028405.1	3.34343	65.0442
+Thermotoga_naphthophila_RKU-10	Bacteria;Thermotogae;Thermotogae	PRJNA33663	GCA_000025105.1	1.80982	46.1
+Acidaminococcus_fermentans_DSM_20731	Bacteria;Terrabacteria group;Firmicutes	PRJNA33685	GCA_000025305.1	2.32977	55.8
+Cellulomonas_fimi_ATCC_484	Bacteria;Terrabacteria group;Actinobacteria	PRJNA33691	GCA_000212695.1	4.26634	74.7
+Cellulomonas_gilvus_ATCC_13127	Bacteria;Terrabacteria group;Actinobacteria	PRJNA33853	GCA_000218545.1	3.52644	73.8
+Mesorhizobium_opportunistum_WSM2075	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA33861	GCA_000176035.2	6.88444	62.9
+Tolumonas_auensis_DSM_9187	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA33873	GCA_000023065.1	3.47129	49
+Hydrogenobacter_thermophilus_TK-6	Bacteria;Aquificae;Aquificae	PRJDA34131	GCA_000010785.1	1.74314	44
+Erwinia_pyrifoliae_Ep1/96	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA34779	GCA_000027265.1	4.07285	53.3602
+Erwinia_billingiae_Eb661	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA34781	GCA_000196615.1	5.37227	55.0417
+Staphylococcus_carnosus_subsp._carnosus_TM300	Bacteria;Terrabacteria group;Firmicutes	PRJEA34811	GCA_000009405.1	2.56642	34.6
+Bartonella_grahamii_as4aup	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA34873	GCA_000022725.1	2.36952	38.0798
+Mycoplasma_hyorhinis_SK76	Bacteria;Terrabacteria group;Tenericutes	PRJNA78027	GCA_000313635.1	0.836897	25.9
+Acidithiobacillus_caldus_ATCC_51756	Bacteria;Proteobacteria;Acidithiobacillia	PRJNA36585	GCA_000175575.2	2.98705	61.3938
+Aggregatibacter_aphrophilus_ATCC_33389	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900636915.1	2.33715	42.3
+Nitrosococcus_halophilus_Nc_4	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA36589	GCA_000024725.1	4.14526	51.6222
+Olsenella_uli_DSM_7084	Bacteria;Terrabacteria group;Actinobacteria	PRJNA36641	GCA_000143845.1	2.0519	64.7
+Thermocrinis_albus_DSM_14484	Bacteria;Aquificae;Aquificae	PRJNA37275	GCA_000025605.1	1.50058	46.9
+Caulobacter_segnis_ATCC_21756	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA37277	GCA_000092285.1	4.65562	67.7
+Brevundimonas_subvibrioides_ATCC_15264	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA36643	GCA_000144605.1	3.44526	68.4
+Citrobacter_youngae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900638065.1	4.86735	51.8
+Bacteroides_dorei_CL03T12C01	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA285067	GCA_001640865.1	5.31037	41.6
+Lactobacillus_jensenii	Bacteria;Terrabacteria group;Firmicutes	PRJNA357991	GCA_001936235.1	1.67295	34.4
+Lactobacillus_ruminis_ATCC_27782	Bacteria;Terrabacteria group;Firmicutes	PRJNA70721	GCA_000224985.1	2.06665	43.5
+Prevotella_melaninogenica_ATCC_25845	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA31383	GCA_000144405.1	3.16828	40.9866
+Capnocytophaga_gingivalis	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA369395	GCA_002302415.1	2.83863	40.1
+Rothia_dentocariosa_ATCC_17931	Bacteria;Terrabacteria group;Actinobacteria	PRJNA48447	GCA_000164695.2	2.50603	53.7
+Staphylococcus_caprae	Bacteria;Terrabacteria group;Firmicutes	PRJNA482667	GCA_007814385.1	2.6915	33.6554
+Bifidobacterium_angulatum_DSM_20098_=_JCM_7096	Bacteria;Terrabacteria group;Actinobacteria	PRJDB55	GCA_001025155.1	2.02197	59.4
+Providencia_alcalifaciens	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900478095.1	4.04293	42
+Providencia_rettgeri	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA342046	GCA_001874625.1	4.88909	40.5377
+Bifidobacterium_pseudocatenulatum_DSM_20438_=_JCM_1200_=_LMG_10505	Bacteria;Terrabacteria group;Actinobacteria	PRJDB61	GCA_001025215.1	2.31375	56.4
+Neisseria_elongata_subsp._glycolytica_ATCC_29315	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA247711	GCA_000818035.1	2.25665	54.3
+Neisseria_flavescens	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA533546	GCA_005221285.1	2.23188	49
+Neisseria_polysaccharea	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA428178	GCA_003355195.1	2.02493	52.1
+Neisseria_subflava	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA533546	GCA_005221305.1	2.19566	49.5
+Filifactor_alocis_ATCC_35896	Bacteria;Terrabacteria group;Firmicutes	PRJNA30485	GCA_000163895.2	1.93101	35.4
+Leptotrichia_goodfellowii	Bacteria;Fusobacteria;Fusobacteriia	PRJDB7856	GCA_007990505.1	2.29073	31.7
+Corynebacterium_matruchotii	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_900638255.1	2.87884	57.2
+Capnocytophaga_sputigena	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA369395	GCA_002302595.1	3.09862	38.7
+Propionibacterium_acidifaciens	Bacteria;Terrabacteria group;Actinobacteria	PRJNA231221	GCA_003798325.1	3.07277	70.6
+Mobiluncus_curtisii_ATCC_43063	Bacteria;Terrabacteria group;Actinobacteria	PRJNA31519	GCA_000196535.1	2.14648	55.4
+Gemella_sanguinis	Bacteria;Terrabacteria group;Firmicutes	PRJNA231221	GCA_009730295.1	1.79661	29.9
+Providencia_rustigianii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900635875.1	3.91385	41.5
+Enterobacter_cancerogenus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA541977	GCA_009648915.1	4.99257	55.5426
+[Clostridium]_hiranonis	Bacteria;Terrabacteria group;Firmicutes	PRJNA523217	GCA_008151785.1	2.5219	31.3
+Bacteroides_cellulosilyticus	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA289334	GCA_001318345.1	7.08483	42.7
+Helicobacter_cinaedi_CCUG_18818_=_ATCC_BAA-847	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJDB113	GCA_000349975.1	2.24013	38.3
+Staphylococcus_capitis_subsp._capitis	Bacteria;Terrabacteria group;Firmicutes	PRJNA232502	GCA_001028645.1	2.50326	32.9357
+Gemella_haemolysans	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900638055.1	1.92623	30.9
+Campylobacter_gracilis	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA290037	GCA_001190745.1	2.28165	46.6
+Chryseobacterium_gleum	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJEB6403	GCA_900636535.1	5.60692	36.9
+Neisseria_cinerea	Bacteria;Proteobacteria;Betaproteobacteria	PRJEB6403	GCA_900475315.1	1.8329	50.9
+Selenomonas_sputigena_ATCC_35185	Bacteria;Terrabacteria group;Firmicutes	PRJNA51247	GCA_000208405.1	2.56836	57.1
+Veillonella_dispar	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900637515.1	2.11692	38.9
+Staphylococcus_warneri	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900636385.1	2.42758	32.8
+Corynebacterium_striatum	Bacteria;Terrabacteria group;Actinobacteria	PRJNA386621	GCA_002156805.1	2.79769	59.0217
+Corynebacterium_aurimucosum_ATCC_700975	Bacteria;Terrabacteria group;Actinobacteria	PRJNA37279	GCA_000022905.1	2.81923	60.5248
+Bifidobacterium_catenulatum_DSM_16992_=_JCM_1194_=_LMG_11043	Bacteria;Terrabacteria group;Actinobacteria	PRJDB58	GCA_001025195.1	2.07952	56.2
+Oxalobacter_formigenes	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA353993	GCA_002127965.1	2.46887	49.6
+Helicobacter_bilis	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA281203	GCA_001999985.1	2.6204	34.8
+Fusobacterium_gonidiaformans_ATCC_25563	Bacteria;Fusobacteria;Fusobacteriia	PRJNA433545	GCA_003019695.1	1.67888	32.7
+Fusobacterium_mortiferum_ATCC_9817	Bacteria;Fusobacteria;Fusobacteriia	PRJNA433545	GCA_003019315.1	2.71677	29.3
+Fusobacterium_varium	Bacteria;Fusobacteria;Fusobacteriia	PRJEB6403	GCA_900637705.1	3.3024	29.3
+Rhodococcus_hoagii_103S	Bacteria;Terrabacteria group;Actinobacteria	PRJEA41335	GCA_000196695.1	5.04317	68.8
+Lactobacillus_vaginalis	Bacteria;Terrabacteria group;Firmicutes	PRJNA566211	GCA_009362935.1	1.89471	40.5
+Erysipelothrix_rhusiopathiae_str._Fujisawa	Bacteria;Terrabacteria group;Firmicutes	PRJDA38421	GCA_000270085.1	1.78794	36.6
+Lactobacillus_amylolyticus	Bacteria;Terrabacteria group;Firmicutes	PRJNA376039	GCA_002075105.1	1.63604	38.2911
+Starkeya_novella_DSM_506	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA37659	GCA_000092925.1	4.76502	67.9
+Cardiobacterium_hominis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900637305.1	2.67076	59.2
+Bacillus_atrophaeus	Bacteria;Terrabacteria group;Firmicutes	PRJNA396635	GCA_002243495.1	4.32582	43.3
+Klebsiella_variicola	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA272370	GCA_000828055.2	5.5212	57.6
+Segniliparus_rotundus_DSM_44985	Bacteria;Terrabacteria group;Actinobacteria	PRJNA37711	GCA_000092825.1	3.15753	66.8
+Desulfovibrio_desulfuricans_ND132	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA37769	GCA_000189295.2	3.85858	65.2
+Syntrophothermus_lipocalidus_DSM_12680	Bacteria;Terrabacteria group;Firmicutes	PRJNA37873	GCA_000092405.1	2.40556	51
+Marivirga_tractuosa_DSM_4126	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA37901	GCA_000183425.1	4.51649	35.5046
+Arcanobacterium_haemolyticum_DSM_20595	Bacteria;Terrabacteria group;Actinobacteria	PRJNA37925	GCA_000092365.1	1.98615	53.1
+Desulfarculus_baarsii_DSM_2075	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA37955	GCA_000143965.1	3.65573	65.7
+Micromonospora_aurantiaca_ATCC_27029	Bacteria;Terrabacteria group;Actinobacteria	PRJNA37957	GCA_000145235.1	7.02556	72.8
+Corynebacterium_kroppenstedtii_DSM_44385	Bacteria;Terrabacteria group;Actinobacteria	PRJNA38011	GCA_000023145.1	2.4468	57.5
+Pseudodesulfovibrio_aespoeensis_Aspo-2	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA37869	GCA_000176915.2	3.62911	62.6
+Thermaerobacter_marianensis_DSM_12885	Bacteria;Terrabacteria group;Firmicutes	PRJNA38025	GCA_000184705.1	2.8447	72.5
+Syntrophobotulus_glycolicus_DSM_8271	Bacteria;Terrabacteria group;Firmicutes	PRJNA38111	GCA_000190635.1	3.40674	46.4
+Leadbetterella_byssophila_DSM_17132	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA38283	GCA_000166395.1	4.05965	40.4
+Parachlamydia_acanthamoebae_UV-7	Bacteria;PVC group;Chlamydiae	PRJEA49033	GCA_000253035.1	3.07238	39
+Truepera_radiovictrix_DSM_17093	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA38371	GCA_000092425.1	3.2604	68.1
+Bacillus_cellulosilyticus_DSM_2522	Bacteria;Terrabacteria group;Firmicutes	PRJNA38423	GCA_000177235.2	4.68167	36.5
+Acinetobacter_nosocomialis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA270223	GCA_000814165.3	4.06175	38.7533
+Streptomyces_griseus_subsp._griseus_NBRC_13350	Bacteria;Terrabacteria group;Actinobacteria	PRJDA20085	GCA_000010605.1	8.54593	72.2
+Mycoplasma_conjunctivae	Bacteria;Terrabacteria group;Tenericutes	PRJEB6403	GCA_900660555.1	2.1175	27.4981
+Desulfurispirillum_indicum_S5	Bacteria;Chrysiogenetes;Chrysiogenetes	PRJNA38575	GCA_000177635.2	2.92838	56.1
+Rhodomicrobium_vannielii_ATCC_17100	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA38253	GCA_000166055.1	4.01447	62.2
+Aerococcus_viridans	Bacteria;Terrabacteria group;Firmicutes	PRJNA308559	GCA_001543285.1	2.19988	39.4
+Streptococcus_oralis_ATCC_35037	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900637025.1	1.93155	41.5
+Achromobacter_xylosoxidans	Bacteria;Proteobacteria;Betaproteobacteria	PRJEB6403	GCA_001457475.1	6.81318	67.4
+Actinomyces_viscosus	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_900637975.1	3.49124	68.9
+Atopobium_parvulum_DSM_20469	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29401	GCA_000024225.1	1.54381	45.7
+Gemella_morbillorum	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900476045.1	1.76093	30.6
+Megamonas_hypermegale	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900187035.1	2.23034	33.8
+Zunongwangia_profunda_SM-A87	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA38641	GCA_000023465.1	5.12819	36.2
+Bacteroides_xylanisolvens	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA484981	GCA_006546965.1	6.54728	41.8371
+Thermoanaerobacter_pseudethanolicus_ATCC_33223	Bacteria;Terrabacteria group;Firmicutes	PRJNA13901	GCA_000019085.1	2.36282	34.5
+Acidovorax_citrulli_AAC00-1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA15708	GCA_000015325.1	5.35277	68.5
+Magnetospirillum_magneticum_AMB-1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA16217	GCA_000009985.1	4.96715	65.1
+Pseudomonas_savastanoi_pv._savastanoi_NCPPB_3335	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA41887	GCA_000164015.3	6.01683	58.1
+Corynebacterium_ammoniagenes_DSM_20306	Bacteria;Terrabacteria group;Actinobacteria	PRJNA242361	GCA_001941425.1	2.79019	55.5
+Prevotella_oris	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJEB6403	GCA_900637655.1	3.16821	44
+Acinetobacter_calcoaceticus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA358196	GCA_002055515.1	4.11599	38.6886
+Acinetobacter_johnsonii_XBB1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA387062	GCA_001484935.1	4.08133	41.0672
+Acinetobacter_junii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA359984	GCA_001941805.1	3.37831	38.6
+Acinetobacter_lwoffii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA231221	GCA_009730095.1	3.48547	43.0054
+Methylotenera_mobilis_JLW8	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA33319	GCA_000023705.1	2.54757	45.5
+Ethanoligenens_harbinense_YUAN-3	Bacteria;Terrabacteria group;Firmicutes	PRJNA39729	GCA_000178115.2	3.00858	55.6
+Corynebacterium_resistens_DSM_45100	Bacteria;Terrabacteria group;Actinobacteria	PRJNA39683	GCA_000177535.2	2.60131	57.1
+Vibrio_fluvialis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA231221	GCA_001558415.2	4.82773	49.8961
+Pantoea_stewartii_subsp._stewartii_DC283	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA342501	GCA_002082215.1	5.31409	53.7776
+Spirochaeta_thermophila_DSM_6578	Bacteria;Spirochaetes;Spirochaetia	PRJNA50823	GCA_000184345.2	2.56022	60.9
+Cronobacter_turicensis_z3032	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA39965	GCA_000027065.2	4.59909	57.2342
+Methylotenera_versatilis_301	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA39983	GCA_000093025.1	3.05987	42.6
+Bacillus_smithii	Bacteria;Terrabacteria group;Firmicutes	PRJNA258357	GCA_001050115.1	3.38129	40.7819
+Bacteroides_salanitronis_DSM_18170	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA40055	GCA_000190575.1	4.30866	46.4428
+Thermodesulfatator_indicus_DSM_15286	Bacteria;Thermodesulfobacteria;Thermodesulfobacteria	PRJNA40057	GCA_000217795.1	2.32222	42.4
+Pasteurella_dagmatis	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900186835.1	2.28721	37.5
+Serratia_odorifera	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900635445.1	5.27256	56.1
+Caldicellulosiruptor_lactoaceticus_6A	Bacteria;Terrabacteria group;Firmicutes	PRJNA40219	GCA_000193435.3	2.67481	36.1
+Dehalogenimonas_lykanthroporepellens_BL-DC-9	Bacteria;Terrabacteria group;Chloroflexi	PRJNA40221	GCA_000143165.1	1.68651	55
+Oceanithermus_profundus_DSM_14977	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA40223	GCA_000183745.1	2.43929	69.7891
+Vibrio_mimicus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA231221	GCA_001558475.2	4.4387	46.3875
+Nitrosococcus_watsonii_C-113	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA40331	GCA_000143085.1	3.37329	50.1211
+Caldicellulosiruptor_obsidiansis_OB47	Bacteria;Terrabacteria group;Firmicutes	PRJNA40355	GCA_000145215.1	2.53234	35.2
+Vibrio_alginolyticus_NBRC_15630_=_ATCC_17749	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA184046	GCA_000354175.2	5.14664	44.7
+Pediococcus_acidilactici	Bacteria;Terrabacteria group;Firmicutes	PRJNA312971	GCA_001767275.1	2.13136	42.1
+Vibrio_coralliilyticus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA256165	GCA_000772065.1	6.03782	45.502
+Grimontia_hollisae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA231221	GCA_001558255.2	3.99844	49.4846
+Vibrio_furnissii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA231221	GCA_006364355.1	4.99333	50.5938
+Pseudonocardia_dioxanivorans_CB1190	Bacteria;Terrabacteria group;Actinobacteria	PRJNA40557	GCA_000196675.1	7.30399	73.2078
+Parageobacillus_thermoglucosidasius	Bacteria;Terrabacteria group;Firmicutes	PRJNA296418	GCA_001295365.1	3.87312	43.9
+Caldicellulosiruptor_hydrothermalis_108	Bacteria;Terrabacteria group;Firmicutes	PRJNA40831	GCA_000166355.1	2.77068	36.1
+Caldicellulosiruptor_owensensis_OL	Bacteria;Terrabacteria group;Firmicutes	PRJNA40833	GCA_000166335.1	2.4289	35.4
+Leuconostoc_kimchii_IMSNU_11154	Bacteria;Terrabacteria group;Firmicutes	PRJNA40837	GCA_000092505.1	2.10179	37.9101
+Corynebacterium_pseudotuberculosis_C231	Bacteria;Terrabacteria group;Actinobacteria	PRJNA40875	GCA_000144675.2	2.33725	52.2
+Enterobacter_asburiae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA285282	GCA_001521715.1	4.80622	55.4279
+Cellulosilyticum_lentocellum_DSM_5427	Bacteria;Terrabacteria group;Firmicutes	PRJNA41511	GCA_000178835.2	4.71424	34.3
+Pseudothermotoga_thermarum_DSM_5069	Bacteria;Thermotogae;Thermotogae	PRJNA41517	GCA_000217815.1	2.03994	40.3
+Cellulophaga_algicola_DSM_14237	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA41529	GCA_000186265.1	4.88835	33.8
+Veillonella_parvula_DSM_2008	Bacteria;Terrabacteria group;Firmicutes	PRJNA21091	GCA_000024945.1	2.13214	38.6
+Alicycliphilus_denitrificans_K601	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA50751	GCA_000204645.1	5.07075	67.9137
+Cupriavidus_necator_N-1	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA67893	GCA_000219215.1	8.48086	65.4817
+Bacillus_cytotoxicus_NVH_391-98	Bacteria;Terrabacteria group;Firmicutes	PRJNA13624	GCA_000017425.1	4.09416	35.8902
+Methylosinus_trichosporium_OB3b	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA413061	GCA_002752655.1	5.18343	65.7592
+Pseudomonas_amygdali_pv._lachrymans	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA379352	GCA_002068135.1	6.00924	58.1
+Borreliella_bavariensis_PBi	Bacteria;Spirochaetes;Spirochaetia	PRJNA12554	GCA_000196215.1	0.986914	28.1245
+Xanthomonas_campestris_pv._vesicatoria_str._85-10	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA13649	GCA_000009165.1	5.42015	64.5103
+Deinococcus_proteolyticus_MRP	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA41911	GCA_000190555.1	2.88684	65.6669
+Bacteroides_helcogenes_P_36-108	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA41913	GCA_000186225.1	3.99891	44.7
+Simonsiella_muelleri_ATCC_29453	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA361301	GCA_002951835.1	2.46986	41.5
+Scardovia_inopinata_JCM_12537	Bacteria;Terrabacteria group;Actinobacteria	PRJDB65	GCA_001042695.1	1.79786	48.6
+Riemerella_anatipestifer_ATCC_11845_=_DSM_15868	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA63599	GCA_000252855.1	2.16409	35
+Lactobacillus_amylovorus	Bacteria;Terrabacteria group;Firmicutes	PRJNA53145	GCA_000191545.1	2.09777	38.0807
+Paludibacter_propionicigenes_WB4	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA42009	GCA_000183135.1	3.6855	38.9
+[Clostridium]_saccharolyticum_WM1	Bacteria;Terrabacteria group;Firmicutes	PRJNA42097	GCA_000144625.1	4.66287	45
+Streptococcus_constellatus_subsp._pharyngis_C1050	Bacteria;Terrabacteria group;Firmicutes	PRJNA50421	GCA_000463425.1	1.99116	38.1
+Mahella_australiensis_50-1_BON	Bacteria;Terrabacteria group;Firmicutes	PRJNA42243	GCA_000213255.1	3.13597	43.5
+Thermoanaerobacter_wiegelii_Rt8.B1	Bacteria;Terrabacteria group;Firmicutes	PRJNA42251	GCA_000147695.3	2.78506	34.3
+Staphylococcus_lugdunensis_HKU09-01	Bacteria;Terrabacteria group;Firmicutes	PRJNA42395	GCA_000025085.1	2.65837	33.9
+Parascardovia_denticolens_DSM_10105_=_JCM_12538	Bacteria;Terrabacteria group;Actinobacteria	PRJDB64	GCA_001042675.1	1.89086	58.3
+Caldicellulosiruptor_kristjanssonii_I77R1B	Bacteria;Terrabacteria group;Firmicutes	PRJNA41727	GCA_000166695.1	2.80244	36.0983
+Coriobacterium_glomerans_PW2	Bacteria;Terrabacteria group;Actinobacteria	PRJNA42699	GCA_000195315.1	2.11568	60.4
+Niastella_koreensis_GR20-10	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA42711	GCA_000246855.1	9.03368	44.9
+Halanaerobium_hydrogeniformans	Bacteria;Terrabacteria group;Firmicutes	PRJNA43059	GCA_000166415.1	2.61312	33.2
+Streptococcus_anginosus_C238	Bacteria;Terrabacteria group;Firmicutes	PRJNA50425	GCA_000463505.1	2.23364	38.2
+Pantoea_ananatis_LMG_5342	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA78277	GCA_000283875.1	4.90814	53.2829
+Desulfomonile_tiedjei_DSM_6799	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA43133	GCA_000266945.1	6.52703	50.1107
+Acinetobacter_haemolyticus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA358138	GCA_001932555.1	3.53884	39.6994
+Mycoplasma_suis_str._Illinois	Bacteria;Terrabacteria group;Tenericutes	PRJNA49421	GCA_000179035.2	0.742431	31.1
+Sulfuricurvum_kujiense_DSM_16994	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA43399	GCA_000183725.1	2.81936	44.5704
+Deinococcus_maricopensis_DSM_21211	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA43461	GCA_000186385.1	3.49853	69.8
+Odoribacter_splanchnicus_DSM_20712	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA43469	GCA_000190535.1	4.39229	43.4
+Pantoea_vagans	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA505269	GCA_004792415.1	4.79033	55.3189
+Lactobacillus_sanfranciscensis_TMW_1.1304	Bacteria;Terrabacteria group;Firmicutes	PRJNA43579	GCA_000225325.1	1.37577	34.8429
+Lysinibacillus_fusiformis	Bacteria;Terrabacteria group;Firmicutes	PRJNA253769	GCA_000724775.3	4.84379	37.6
+Streptococcus_gallolyticus	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900475715.1	2.49358	37.7
+Roseburia_hominis_A2-183	Bacteria;Terrabacteria group;Firmicutes	PRJNA33399	GCA_000225345.1	3.59212	48.5
+Intrasporangium_calvum_DSM_43043	Bacteria;Terrabacteria group;Actinobacteria	PRJNA43527	GCA_000184685.1	4.02438	70.7
+Waddlia_chondrophila_WSU_86-1044	Bacteria;PVC group;Chlamydiae	PRJNA43761	GCA_000092785.1	2.13191	43.7547
+Flexistipes_sinusarabici_DSM_4947	Bacteria;Deferribacteres;Deferribacteres	PRJNA45817	GCA_000218625.1	2.52659	38.3
+Acinetobacter_oleivorans_DR1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA46105	GCA_000196795.1	4.15254	38.7
+Deferribacter_desulfuricans_SSM1	Bacteria;Deferribacteres;Deferribacteres	PRJDA37285	GCA_000010985.1	2.54293	30.2992
+Thermus_scotoductus_SA-01	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA46293	GCA_000187005.1	2.35519	64.9036
+Nitrospira_defluvii	Bacteria;Nitrospirae;Nitrospira	PRJEA46433	GCA_000196815.1	4.31708	59
+Mycoplasma_putrefaciens_KS1	Bacteria;Terrabacteria group;Tenericutes	PRJNA46453	GCA_000224105.1	0.832603	26.9
+Taylorella_equigenitalis_ATCC_35865	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA73729	GCA_000276685.1	1.73212	37.3
+Treponema_caldarium_DSM_7334	Bacteria;Spirochaetes;Spirochaetia	PRJNA46527	GCA_000219725.1	3.23934	45.6
+Thermodesulfobium_narugense_DSM_14796	Bacteria;Terrabacteria group;Firmicutes	PRJNA46673	GCA_000212395.1	1.89887	33.9
+Desulfotomaculum_nigrificans_CO-1-SRB	Bacteria;Terrabacteria group;Firmicutes	PRJNA50757	GCA_000214435.1	2.89226	46.6
+Nitratifractor_salsuginis_DSM_16511	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA46883	GCA_000186245.1	2.10128	53.9
+Sphingobium_japonicum_UT26S	Bacteria;Proteobacteria;Alphaproteobacteria	PRJDA19949	GCA_000091125.1	4.42486	64.8793
+Brevundimonas_diminuta	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA514930	GCA_004102925.1	3.55182	67.4
+Rubinisphaera_brasiliensis_DSM_5305	Bacteria;PVC group;Planctomycetes	PRJNA47863	GCA_000165715.3	6.0066	56.4
+Streptomyces_bingchenggensis_BCW-1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA46847	GCA_000092385.1	11.9367	70.8
+Leptospira_santarosai_serovar_Shermani_str._LT_821	Bacteria;Spirochaetes;Spirochaetia	PRJNA47139	GCA_000313175.2	3.98361	41.8163
+Fluviicola_taffensis_DSM_16823	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA47603	GCA_000194605.1	4.63358	36.5
+Desulfotomaculum_ruminis_DSM_2154	Bacteria;Terrabacteria group;Firmicutes	PRJNA47605	GCA_000215085.1	3.96901	47.2
+Granulicella_mallensis_MP5ACTX8	Bacteria;Acidobacteria;Acidobacteriia	PRJNA47903	GCA_000178955.2	6.23758	57.9
+Sphaerochaeta_globosa_str._Buddy	Bacteria;Spirochaetes;Spirochaetia	PRJNA47953	GCA_000190435.1	3.31647	48.9
+Ketogulonicigenium_vulgare_Y25	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA51787	GCA_000164885.1	3.2884	61.7422
+Citrobacter_freundii_CFNIH1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA202883	GCA_000648515.1	5.37133	52.2253
+Eggerthella_lenta_DSM_2243	Bacteria;Terrabacteria group;Actinobacteria	PRJNA21093	GCA_000024265.1	3.63226	64.2
+Sphaerochaeta_coccoides_DSM_17374	Bacteria;Spirochaetes;Spirochaetia	PRJNA48121	GCA_000208385.1	2.2273	50.6
+Hippea_maritima_DSM_10411	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA48195	GCA_000194135.1	1.69443	37.5
+Haliscomenobacter_hydrossis_DSM_1100	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA48289	GCA_000212735.1	8.77165	47.0706
+Brachyspira_pilosicoli_P43/6/78	Bacteria;Spirochaetes;Spirochaetia	PRJNA67875	GCA_000325665.1	2.55556	27.9
+Paraprevotella_xylaniphila_YIT_11841	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJEB29940	GCA_900683745.1	4.12532	48.5
+Streptococcus_parasanguinis_ATCC_15912	Bacteria;Terrabacteria group;Firmicutes	PRJNA48315	GCA_000164675.2	2.15365	41.7
+Streptococcus_urinalis	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900636885.1	2.144	34.3
+Terriglobus_saanensis_SP1PR4	Bacteria;Acidobacteria;Acidobacteriia	PRJNA48971	GCA_000179915.2	5.09523	57.3
+Mesotoga_prima_MesG1.Ag.4.2	Bacteria;Thermotogae;Thermotogae	PRJNA48995	GCA_000147715.3	2.97595	45.4977
+Pseudopropionibacterium_propionicum	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_900637725.1	3.40235	66.1
+Prevotella_denticola_F0289	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA49293	GCA_000193395.1	2.93759	50.4
+Pseudopedobacter_saltans_DSM_12145	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA49337	GCA_000190735.2	4.63524	36.6
+Thermovibrio_ammonificans_HB-1	Bacteria;Aquificae;Aquificae	PRJNA49403	GCA_000185805.1	1.75953	52.1174
+Calditerrivibrio_nitroreducens_DSM_19672	Bacteria;Deferribacteres;Deferribacteres	PRJNA49523	GCA_000183405.1	2.21655	35.6755
+Isoptericola_variabilis_225	Bacteria;Terrabacteria group;Actinobacteria	PRJNA49657	GCA_000215105.1	3.30774	73.9
+Pseudomonas_fulva_12-X	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA49675	GCA_000213805.1	4.92077	63.5
+Sphingobium_chlorophenolicum_L-1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA50015	GCA_000147835.3	4.57322	63.8346
+Corynebacterium_variabile_DSM_44702	Bacteria;Terrabacteria group;Actinobacteria	PRJNA50001	GCA_000179395.2	3.43301	67.1
+Capnocytophaga_canimorsus_Cc5	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA50199	GCA_000220625.1	2.57141	36.1
+Thermoanaerobacterium_xylanolyticum_LX-11	Bacteria;Terrabacteria group;Firmicutes	PRJNA50295	GCA_000189775.3	2.53436	35
+Haemophilus_parainfluenzae_T3T1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA50411	GCA_000210895.1	2.08688	39.6
+Weeksella_virosa_DSM_16922	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA50581	GCA_000189415.1	2.27295	35.9
+Rahnella_aquatilis_HX2	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA85539	GCA_000255535.1	5.6568	52.1505
+Vibrio_tubiashii_ATCC_19109	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA256164	GCA_000772105.1	5.54034	45.0269
+Cellulophaga_lytica_DSM_7489	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA50743	GCA_000190595.1	3.76594	32.1
+Treponema_succinifaciens_DSM_2489	Bacteria;Spirochaetes;Spirochaetia	PRJNA50825	GCA_000195275.1	2.89743	39.1714
+Marinithermus_hydrothermalis_DSM_14884	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA50827	GCA_000195335.1	2.26917	68.1
+Aerococcus_urinae	Bacteria;Terrabacteria group;Firmicutes	PRJNA308559	GCA_001543175.1	1.97426	42.6
+Veillonella_atypica	Bacteria;Terrabacteria group;Firmicutes	PRJNA380512	GCA_002082765.1	2.07195	39.1
+Vibrio_scophthalmi	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA325204	GCA_001685465.1	4.92608	44.6162
+Capnocytophaga_ochracea_DSM_7271	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA29403	GCA_000023285.1	2.61293	39.6
+Desulfurobacterium_thermolithotrophum_DSM_11699	Bacteria;Aquificae;Aquificae	PRJNA51497	GCA_000191045.1	1.54197	34.9
+Porphyromonas_asaccharolytica_DSM_20707	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA51745	GCA_000212375.1	2.18637	52.5
+Actinomyces_oris	Bacteria;Terrabacteria group;Actinobacteria	PRJNA282954	GCA_001553935.1	3.04292	68.5
+Vibrio_anguillarum_775	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA51883	GCA_000217675.1	4.05205	44.4781
+Anaerococcus_prevotii_DSM_20548	Bacteria;Terrabacteria group;Firmicutes	PRJNA29533	GCA_000024105.1	1.99863	35.6663
+Mycoplasma_hominis_ATCC_23114	Bacteria;Terrabacteria group;Tenericutes	PRJEA53147	GCA_000085865.1	0.665445	27.1
+Staphylococcus_simulans	Bacteria;Terrabacteria group;Firmicutes	PRJNA231221	GCA_001559115.2	2.64756	36
+Myroides_odoratimimus	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA302352	GCA_001481655.1	4.45775	34.1409
+Eubacterium_limosum	Bacteria;Terrabacteria group;Firmicutes	PRJNA270275	GCA_000807675.2	4.42284	47.2
+Muricauda_ruestringensis_DSM_13258	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA52467	GCA_000224085.1	3.84242	41.4
+Marinomonas_posidonica_IVIA-Po-181	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA52545	GCA_000214215.1	3.89994	44.3
+Pseudoxanthomonas_suwonensis_11-1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA48619	GCA_000185965.1	3.41905	70.2
+Halomonas_elongata_DSM_2581	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA49333	GCA_000196875.2	4.06182	63.6
+Streptococcus_parauberis_KCTC_11537	Bacteria;Terrabacteria group;Firmicutes	PRJNA61187	GCA_000213825.1	2.14389	35.5
+Streptococcus_porcinus	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900475415.1	2.03305	36.8
+Marinomonas_mediterranea_MMB-1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA51765	GCA_000192865.1	4.68432	44.1
+Leuconostoc_lactis	Bacteria;Terrabacteria group;Firmicutes	PRJNA327015	GCA_001698145.1	1.78807	43.1131
+Thiomicrospira_cyclica_ALM1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA52629	GCA_000214825.1	1.93246	47
+Acetobacter_aceti	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA311264	GCA_002005445.1	3.72504	56.8
+Desulfocurvibacter_africanus_subsp._africanus_str._Walvis_Bay	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA52831	GCA_000212675.2	4.20053	61.4
+Rhodothermus_marinus_DSM_4252	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA29281	GCA_000024845.1	3.38674	64.2672
+Lautropia_mirabilis	Bacteria;Proteobacteria;Betaproteobacteria	PRJEB6403	GCA_900637555.1	3.17201	65.5
+Schaalia_cardiffensis_F0333	Bacteria;Terrabacteria group;Actinobacteria	PRJNA543187	GCA_005886435.1	2.23059	61.4
+Aggregatibacter_segnis_ATCC_33393	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900476035.1	2.02283	42.6
+Enterobacter_hormaechei_subsp._steigerwaltii	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA259658	GCA_001729725.1	4.78248	55.6
+Haemophilus_aegyptius	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900475885.1	1.99326	38.3
+Streptococcus_australis	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900476055.1	2.16146	41.9
+Streptococcus_cristatus_ATCC_51100	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900475445.1	2.00035	42.6
+Streptococcus_pseudopneumoniae_IS7493	Bacteria;Terrabacteria group;Firmicutes	PRJNA69547	GCA_000221985.1	2.19546	39.7968
+Streptococcus_vestibularis	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900636445.1	1.9503	39.6
+Desulfobacca_acetoxidans_DSM_11109	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA51777	GCA_000195295.1	3.28254	52.9
+Caldicellulosiruptor_kronotskyensis_2002	Bacteria;Terrabacteria group;Firmicutes	PRJNA52409	GCA_000166775.1	2.84379	35.1
+Glutamicibacter_arilaitensis_Re117	Bacteria;Terrabacteria group;Actinobacteria	PRJEA50353	GCA_000197735.1	3.91819	59.2853
+Treponema_brennaborense_DSM_12168	Bacteria;Spirochaetes;Spirochaetia	PRJNA53887	GCA_000212415.1	3.05558	51.5
+Methylomonas_methanica_MC09	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA53917	GCA_000214665.1	5.05168	51.3
+Peptoniphilus_harei	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900638565.1	1.7391	34.4
+Thermobacillus_composti_KWC4	Bacteria;Terrabacteria group;Firmicutes	PRJNA54035	GCA_000227705.3	4.35553	60.1445
+Prevotella_dentalis_DSM_3688	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA56077	GCA_000242335.3	3.35021	55.86
+Plautia_stali_symbiont	Bacteria;Proteobacteria;Gammaproteobacteria	PRJDA53367	GCA_000180175.2	4.09285	56.8841
+Weissella_cibaria	Bacteria;Terrabacteria group;Firmicutes	PRJNA297257	GCA_001308145.2	2.57773	44.7462
+Desulfallas_gibsoniae_DSM_7213	Bacteria;Terrabacteria group;Firmicutes	PRJNA59873	GCA_000233715.3	4.85553	45.5
+Xanthomonas_vesicatoria_ATCC_35937	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA344031	GCA_001908725.1	5.3499	64.0899
+Xanthomonas_perforans	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA344031	GCA_001908855.1	5.34642	64.6165
+Anaerolinea_thermophila_UNI-1	Bacteria;Terrabacteria group;Chloroflexi	PRJNA60099	GCA_000199675.1	3.53238	53.8
+Leuconostoc_gelidum_subsp._gasicomitatum_KG16-1	Bacteria;Terrabacteria group;Firmicutes	PRJEB11303	GCA_001536305.1	2.05073	36.8506
+Paraburkholderia_rhizoxinica_HKI_454	Bacteria;Proteobacteria;Betaproteobacteria	PRJEA51915	GCA_000198775.1	3.75014	60.6963
+Aeromonas_caviae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900476005.1	4.58614	61.6
+Sanguibacter_keddieii_DSM_10542	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19711	GCA_000024925.1	4.25341	71.9
+Gordonia_bronchialis_DSM_43247	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29549	GCA_000024785.1	5.29001	67.0692
+Haliangium_ochraceum_DSM_14365	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA28711	GCA_000024805.1	9.44631	69.5
+Sulfurospirillum_deleyianum_DSM_6946	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA29529	GCA_000024885.1	2.30635	39
+Streptobacillus_moniliformis_DSM_12112	Bacteria;Fusobacteria;Fusobacteriia	PRJNA29309	GCA_000024565.1	1.67328	26.2655
+Sebaldella_termitidis_ATCC_33386	Bacteria;Fusobacteria;Fusobacteriia	PRJNA29539	GCA_000024405.1	4.48665	33.4235
+Thermomonospora_curvata_DSM_43183	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20825	GCA_000024385.1	5.63902	71.6
+Xylanimonas_cellulosilytica_DSM_15894	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19715	GCA_000024965.1	3.83138	72.4653
+Sphaerobacter_thermophilus_DSM_20745	Bacteria;Terrabacteria group;Chloroflexi	PRJNA21087	GCA_000024985.1	3.99376	68.1
+Thermobaculum_terrenum_ATCC_BAA-798	Bacteria;Terrabacteria group;unclassified Terrabacteria group	PRJNA29523	GCA_000025005.1	3.10158	53.5397
+Streptosporangium_roseum_DSM_43021	Bacteria;Terrabacteria group;Actinobacteria	PRJNA21083	GCA_000024865.1	10.3695	70.8965
+Kribbella_flavida_DSM_17836	Bacteria;Terrabacteria group;Actinobacteria	PRJNA21089	GCA_000024345.1	7.57949	70.6
+Conexibacter_woesei_DSM_14684	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20745	GCA_000025265.1	6.35937	72.7
+Denitrovibrio_acetiphilus_DSM_12809	Bacteria;Deferribacteres;Deferribacteres	PRJNA29431	GCA_000025725.1	3.22208	42.5
+Meiothermus_ruber_DSM_1279	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA28827	GCA_000024425.1	3.09746	63.4
+Geodermatophilus_obscurus_DSM_43160	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29547	GCA_000025345.1	5.3225	74
+Stackebrandtia_nassauensis_DSM_44728	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19713	GCA_000024545.1	6.84156	68.1
+Planctopirus_limnophila_DSM_3776	Bacteria;PVC group;Planctomycetes	PRJNA29411	GCA_000092105.1	5.46009	53.7224
+Brachyspira_murdochii_DSM_12563	Bacteria;Spirochaetes;Spirochaetia	PRJNA29543	GCA_000092845.1	3.2418	27.8
+Cellulomonas_flavigena_DSM_20109	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19707	GCA_000092865.1	4.12318	74.3
+Tsukamurella_paurometabola_DSM_20162	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29399	GCA_000092225.1	4.47972	68.3866
+Thermobispora_bispora_DSM_43833	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20737	GCA_000092645.1	4.18998	72.4
+Nocardiopsis_dassonvillei_subsp._dassonvillei_DSM_43111	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19709	GCA_000092985.1	6.54331	72.7052
+Meiothermus_silvanus_DSM_9946	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA29551	GCA_000092125.1	3.72167	62.7494
+Actinosynnema_mirum_DSM_43827	Bacteria;Terrabacteria group;Actinobacteria	PRJNA19705	GCA_000023245.1	8.24814	73.7
+Cryptobacterium_curtum_DSM_15641	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20739	GCA_000023845.1	1.6178	50.9
+Beutenbergia_cavernae_DSM_12333	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20827	GCA_000023105.1	4.66918	73.1
+Dyadobacter_fermentans_DSM_18053	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA20829	GCA_000023125.1	6.96779	51.5
+Slackia_heliotrinireducens_DSM_20476	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20831	GCA_000023885.1	3.16504	60.2
+Jonesia_denitrificans_DSM_20603	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20833	GCA_000024065.1	2.74965	58.4
+Saccharomonospora_viridis_DSM_43017	Bacteria;Terrabacteria group;Actinobacteria	PRJNA20835	GCA_000023865.1	4.30835	67.3
+Kytococcus_sedentarius_DSM_20547	Bacteria;Terrabacteria group;Actinobacteria	PRJNA21067	GCA_000023925.1	2.78502	71.6
+Catenulispora_acidiphila_DSM_44928	Bacteria;Terrabacteria group;Actinobacteria	PRJNA21085	GCA_000024025.1	10.4678	69.8
+Desulfofarcimen_acetoxidans_DSM_771	Bacteria;Terrabacteria group;Firmicutes	PRJNA27947	GCA_000024205.1	4.54562	41.6
+Desulfohalobium_retbaense_DSM_5692	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA29199	GCA_000024325.1	2.90957	57.2915
+Kangiella_koreensis_DSM_16069	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA29443	GCA_000024085.1	2.85207	43.7
+Leptotrichia_buccalis_C-1013-b	Bacteria;Fusobacteria;Fusobacteriia	PRJNA29445	GCA_000023905.1	2.46561	29.6
+Acidimicrobium_ferrooxidans_DSM_10331	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29525	GCA_000023265.1	2.15816	68.3
+Desulfomicrobium_baculatum_DSM_4028	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJNA29527	GCA_000023225.1	3.94266	58.6
+Nakamurella_multipartita_DSM_44233	Bacteria;Terrabacteria group;Actinobacteria	PRJNA29537	GCA_000024365.1	6.0603	70.9
+Pedobacter_heparinus_DSM_2366	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA27949	GCA_000023825.1	5.16738	42
+Chitinophaga_pinensis_DSM_2588	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA27951	GCA_000024005.1	9.12735	45.2
+Desulfitobacterium_dehalogenans_ATCC_51507	Bacteria;Terrabacteria group;Firmicutes	PRJNA61181	GCA_000243155.3	4.32175	45
+Lactobacillus_farciminis_KCTC_3681_=_DSM_20184	Bacteria;Terrabacteria group;Firmicutes	PRJNA348651	GCA_002706745.1	2.55184	36.4
+Helicobacter_felis_ATCC_49179	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJEA61189	GCA_000200595.1	1.67268	44.5
+Staphylococcus_pseudintermedius_HKU10-03	Bacteria;Terrabacteria group;Firmicutes	PRJNA61283	GCA_000185885.1	2.61738	37.5
+Desulfitobacterium_metallireducens_DSM_15288	Bacteria;Terrabacteria group;Firmicutes	PRJNA61369	GCA_000231405.3	3.17607	41.9
+Planococcus_donghaensis	Bacteria;Terrabacteria group;Firmicutes	PRJNA330591	GCA_001687665.2	3.31933	40.1252
+Acidithiobacillus_ferrivorans_SS3	Bacteria;Proteobacteria;Acidithiobacillia	PRJNA61509	GCA_000214095.3	3.20755	56.6
+Lactobacillus_fructivorans	Bacteria;Terrabacteria group;Firmicutes	PRJNA566308	GCA_009496955.1	1.38877	39
+Desulfitobacterium_dichloroeliminans_LMG_P-21439	Bacteria;Terrabacteria group;Firmicutes	PRJNA61519	GCA_000243135.3	3.62445	44.2
+Desulfosporosinus_acidiphilus_SJ4	Bacteria;Terrabacteria group;Firmicutes	PRJNA61821	GCA_000255115.3	4.99118	42.0694
+Xanthomonas_gardneri	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA344031	GCA_001908775.1	5.62545	63.2927
+Corynebacterium_ulcerans	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_900187135.1	2.45376	53.3
+Marichromatium_purpuratum_984	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA62513	GCA_000224005.3	3.77911	67.9
+Bartonella_clarridgeiae_73	Bacteria;Proteobacteria;Alphaproteobacteria	PRJEA42109	GCA_000253015.1	1.52274	35.7
+Verrucosispora_maris_AB-18-032	Bacteria;Terrabacteria group;Actinobacteria	PRJNA59863	GCA_000204155.1	6.73227	70.8948
+Microbacterium_testaceum_StLB037	Bacteria;Terrabacteria group;Actinobacteria	PRJDA62249	GCA_000202635.1	3.98203	70.3
+Chlamydia_pecorum_E58	Bacteria;PVC group;Chlamydiae	PRJNA62893	GCA_000204135.1	1.1062	41.1
+Vibrio_rotiferianus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA355548	GCA_002214395.1	5.27786	44.8521
+Hoyosella_subflava_DQS3-9A1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA63351	GCA_000214175.1	4.86349	62.1997
+Terriglobus_roseus_DSM_18391	Bacteria;Acidobacteria;Acidobacteriia	PRJNA63509	GCA_000265425.1	5.22786	60.3
+Polymorphum_gilvum_SL003B-26A1	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA63293	GCA_000192745.1	4.71896	67.1174
+Acidiphilium_multivorum_AIU301	Bacteria;Proteobacteria;Alphaproteobacteria	PRJDA60101	GCA_000202835.1	4.21474	66.9853
+Aeromonas_veronii_B565	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA63671	GCA_000204115.1	4.55178	58.7
+Paenibacillus_mucilaginosus_3016	Bacteria;Terrabacteria group;Firmicutes	PRJNA77661	GCA_000250655.1	8.73905	58.3
+Burkholderia_gladioli	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA238809	GCA_000959725.1	8.89946	67.6197
+Echinicola_vietnamensis_DSM_17526	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA65035	GCA_000325705.1	5.60804	44.8
+Pseudomonas_brassicacearum_subsp._brassicacearum_NFM421	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEA63495	GCA_000194805.1	6.84325	60.8
+Gallibacterium_anatis_UMN179	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA65483	GCA_000209675.1	2.69414	39.8896
+Owenweeksia_hongkongensis_DSM_17368	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA65297	GCA_000236705.1	4.00006	40.2
+Haemophilus_haemolyticus	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA428178	GCA_003352385.1	1.97306	38.5
+Melissococcus_plutonius	Bacteria;Terrabacteria group;Firmicutes	PRJDB6526	GCA_009731445.1	2.07574	31.2117
+Microlunatus_phosphovorus_NM-1	Bacteria;Terrabacteria group;Actinobacteria	PRJNA66879	GCA_000270245.1	5.68312	67.3
+Rickettsia_heilongjiangensis_054	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA66907	GCA_000221205.1	1.27847	32.3
+Corynebacterium_nuruki_S6-4	Bacteria;Terrabacteria group;Actinobacteria	PRJNA558581	GCA_007970465.1	3.17395	69.3
+Lactobacillus_kefiranofaciens_ZW3	Bacteria;Terrabacteria group;Firmicutes	PRJNA66525	GCA_000214785.1	2.35409	37.3604
+Mycoplasma_anatis	Bacteria;Terrabacteria group;Tenericutes	PRJEB6403	GCA_900660655.1	0.978241	26.7
+Advenella_mimigardefordensis_DPN7	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA178261	GCA_000521505.1	4.76413	54.2574
+Mycoplasma_columbinum	Bacteria;Terrabacteria group;Tenericutes	PRJEB6403	GCA_900660685.1	0.776661	27
+Streptococcus_pasteurianus_ATCC_43144	Bacteria;Terrabacteria group;Firmicutes	PRJDA62519	GCA_000270165.1	2.10008	37.4
+Haemophilus_pittmaniae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900186995.1	2.18135	42.5
+Mycobacterium_colombiense_CECT_3035	Bacteria;Terrabacteria group;Actinobacteria	PRJNA383253	GCA_002105755.1	5.58164	68.1
+Brevibacillus_laterosporus_LMG_15441	Bacteria;Terrabacteria group;Firmicutes	PRJNA67803	GCA_000219535.3	5.15386	41.0942
+Serinicoccus_marinus_DSM_15273	Bacteria;Terrabacteria group;Actinobacteria	PRJNA559772	GCA_008386315.1	3.42028	72.2
+Brachyspira_intermedia_PWS/A	Bacteria;Spirochaetes;Spirochaetia	PRJNA68051	GCA_000223215.1	3.30805	27.1939
+Weissella_koreensis_KACC_15510	Bacteria;Terrabacteria group;Firmicutes	PRJNA67979	GCA_000219805.1	1.44147	35.5158
+Neisseria_weaveri	Bacteria;Proteobacteria;Betaproteobacteria	PRJEB6403	GCA_900638685.1	2.23848	49.1
+Pantoea_agglomerans	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA335437	GCA_001709315.1	5.11524	55.0152
+Cyclobacterium_marinum_DSM_745	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA51773	GCA_000222485.1	6.22127	38.1
+Mycobacterium_canettii_CIPT_140010059	Bacteria;Terrabacteria group;Actinobacteria	PRJEA68135	GCA_000253375.1	4.48206	65.6
+Paenibacillus_riograndensis_SBR5	Bacteria;Terrabacteria group;Firmicutes	PRJEB8797	GCA_000981585.1	7.91958	51
+Borreliella_bissettii_DN127	Bacteria;Spirochaetes;Spirochaetia	PRJNA29363	GCA_000222305.1	1.40344	28.33
+Vibrio_nigripulchritudo	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB625	GCA_000801275.1	6.32216	45.76
+Gordonia_alkanivorans	Bacteria;Terrabacteria group;Actinobacteria	PRJNA434635	GCA_004011905.1	4.97966	67.4711
+Acetobacter_tropicalis	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA397225	GCA_002549835.1	4.13966	55.6687
+Desulfosporosinus_meridiei_DSM_13257	Bacteria;Terrabacteria group;Firmicutes	PRJNA62669	GCA_000231385.3	4.87357	41.8
+Fervidobacterium_pennivorans_DSM_9078	Bacteria;Thermotogae;Thermotogae	PRJNA60139	GCA_000235405.3	2.16638	38.9
+Nitrospirillum_amazonense_CBAmc	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA232577	GCA_000730165.2	7.38239	67.4958
+Burkholderia_cepacia_ATCC_25416	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA298860	GCA_001411495.1	8.60595	66.5956
+Tetragenococcus_halophilus_NBRC_12172	Bacteria;Terrabacteria group;Firmicutes	PRJNA41613	GCA_000283615.1	2.56272	36
+Mycoplasma_yeatsii_GM274B	Bacteria;Terrabacteria group;Tenericutes	PRJNA46457	GCA_000875755.1	0.895051	25.7
+Enterococcus_hirae_ATCC_9790	Bacteria;Terrabacteria group;Firmicutes	PRJNA49385	GCA_000271405.2	2.85644	36.8638
+Bacillus_methanolicus_MGA3	Bacteria;Terrabacteria group;Firmicutes	PRJNA246479	GCA_000724485.1	3.42521	38.6304
+Ornithobacterium_rhinotracheale_DSM_15997	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA50745	GCA_000265465.1	2.39918	37.2
+Hafnia_alvei_FB1	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA236111	GCA_000597785.2	4.71272	49
+Selenomonas_ruminantium_subsp._lactilytica_TAM6421	Bacteria;Terrabacteria group;Firmicutes	PRJNA60235	GCA_000284095.1	3.63193	50.1648
+Streptomyces_venezuelae_ATCC_10712	Bacteria;Terrabacteria group;Actinobacteria	PRJNA454547	GCA_008639165.1	8.2235	72.5
+Lactobacillus_pentosus	Bacteria;Terrabacteria group;Firmicutes	PRJNA494616	GCA_003641185.1	3.67137	46.3275
+Lactobacillus_acidipiscis	Bacteria;Terrabacteria group;Firmicutes	PRJEB17511	GCA_900116935.1	2.60742	39.8
+Rhodococcus_aetherivorans	Bacteria;Terrabacteria group;Actinobacteria	PRJNA281168	GCA_000982715.1	5.92275	70.6
+Lactobacillus_curvatus_JCM_1096_=_DSM_20019	Bacteria;Terrabacteria group;Firmicutes	PRJNA397497	GCA_004101845.1	1.91652	41.9856
+Staphylococcus_sciuri_subsp._sciuri	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900474615.1	2.81186	32.7
+Proteus_vulgaris	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_901472505.1	3.92477	38
+Tatumella_citrea	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA319878	GCA_002163585.1	4.49125	49.6856
+Leptospirillum_ferrooxidans_C2-3	Bacteria;Nitrospirae;Nitrospira	PRJDB73	GCA_000284315.1	2.55954	50
+Agrobacterium_rhizogenes	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA373797	GCA_002005205.3	5.48224	59.6945
+Acetomicrobium_mobile_DSM_13181	Bacteria;Synergistetes;Synergistia	PRJNA53351	GCA_000266925.1	2.1607	48
+Solitalea_canadensis_DSM_3403	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA60421	GCA_000242635.3	5.20207	37.3
+Saprospira_grandis_str._Lewin	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA67697	GCA_000250635.1	4.40018	46.4012
+Niabella_soli_DSM_19437	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA61269	GCA_000243115.3	4.69734	45.2
+Deinococcus_peraridilitoris_DSM_19664	Bacteria;Terrabacteria group;Deinococcus-Thermus	PRJNA61295	GCA_000317835.1	4.51371	63.71
+Micavibrio_aeruginosavorus_ARL-13	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA49751	GCA_000226315.1	2.48198	54.7
+Chloracidobacterium_thermophilum_B	Bacteria;Acidobacteria;Blastocatellia	PRJNA62457	GCA_000226295.1	3.69537	61.3452
+Flavobacterium_branchiophilum_FL-15	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA67123	GCA_000253275.1	3.56329	32.9006
+Singulisphaera_acidiphila_DSM_18658	Bacteria;PVC group;Planctomycetes	PRJNA52461	GCA_000242455.3	9.75569	62.2672
+Pediococcus_damnosus	Bacteria;Terrabacteria group;Firmicutes	PRJNA290141	GCA_001611135.1	2.50947	38.6043
+Glaciecola_nitratireducens_FR1064	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA73073	GCA_000226565.1	4.13423	42.3
+Taylorella_asinigenitalis_MCE3	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA66041	GCA_000226625.1	1.63856	38.3
+Streptomyces_chartreusis	Bacteria;Terrabacteria group;Actinobacteria	PRJNA412292	GCA_008704715.1	9.9121	71
+Morganella_morganii_subsp._morganii_KT	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA78681	GCA_000286435.2	3.79954	51.1
+Cutibacterium_avidum_44067	Bacteria;Terrabacteria group;Actinobacteria	PRJNA157751	GCA_000367205.1	2.52614	63.5
+Mycoplasma_iowae_695	Bacteria;Terrabacteria group;Tenericutes	PRJNA503681	GCA_009883755.1	1.31548	24.6
+Komagataeibacter_europaeus	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA386757	GCA_002173515.1	3.79791	61.7094
+Komagataeibacter_oboediens	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA562619	GCA_009671185.1	2.64235	62.9
+Thiomicrospira_aerophila_AL3	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA52553	GCA_000227665.3	2.15836	45.9
+Thiocystis_violascens_DSM_198	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA60641	GCA_000227745.3	5.01707	62.6
+Dickeya_chrysanthemi_Ech1591	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA31295	GCA_000023565.1	4.81385	54.5
+Prevotella_intermedia_ATCC_25611_=_DSM_20706	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA313956	GCA_001953955.1	2.67417	43.4621
+Tannerella_forsythia_92A2	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA319	GCA_000238215.1	3.40552	47
+Clostridium_pasteurianum_DSM_525_=_ATCC_6013	Bacteria;Terrabacteria group;Firmicutes	PRJNA258199	GCA_000807255.1	4.3521	29.9
+Streptomyces_ambofaciens_ATCC_23877	Bacteria;Terrabacteria group;Actinobacteria	PRJNA93	GCA_001267885.1	8.3936	72.168
+Thermodesulfobacterium_commune_DSM_2178	Bacteria;Thermodesulfobacteria;Thermodesulfobacteria	PRJNA12531	GCA_000734015.1	1.76405	37
+Wolbachia_endosymbiont_of_Onchocerca_volvulus_str._Cameroon	Bacteria;Proteobacteria;Alphaproteobacteria	PRJEB4840	GCA_000530755.1	0.960618	32.1
+Azospirillum_brasilense	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA293508	GCA_001315015.1	6.58753	68.3137
+Mycoplasma_orale	Bacteria;Terrabacteria group;Tenericutes	PRJEB6403	GCA_900660435.1	0.806218	25.2918
+Legionella_hackeliae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB7321	GCA_000953655.1	3.57086	38.9454
+Rhizobium_tropici_CIAT_899	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA42391	GCA_000330885.1	6.68633	59.5131
+Vibrio_campbellii_ATCC_BAA-1116	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA19857	GCA_000017705.1	6.05838	45.4023
+Maize_bushy_stunt_phytoplasma	Bacteria;Terrabacteria group;Tenericutes	PRJNA317711	GCA_001712875.1	0.576118	28.5
+Thermochromatium_tepidum_ATCC_43061	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA531910	GCA_009664085.1	2.95829	63.4
+Streptomyces_peucetius_subsp._caesius_ATCC_27952	Bacteria;Terrabacteria group;Actinobacteria	PRJNA394648	GCA_002777535.1	8.02311	70.6
+Mycobacteroides_chelonae_CCUG_47445	Bacteria;Terrabacteria group;Actinobacteria	PRJNA237578	GCA_001632805.1	5.02982	63.9
+Rickettsia_slovaca_13-B	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA15712	GCA_000237845.1	1.27509	32.5
+Staphylococcus_xylosus	Bacteria;Terrabacteria group;Firmicutes	PRJNA241308	GCA_000709415.1	2.75756	32.9
+Bacillus_lentus	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900478165.1	4.38437	36.7
+Streptococcus_canis	Bacteria;Terrabacteria group;Firmicutes	PRJEB6403	GCA_900636575.1	2.08474	39.9
+Acidaminococcus_intestini_RyC-MR95	Bacteria;Terrabacteria group;Firmicutes	PRJNA32215	GCA_000230275.1	2.48777	50
+Spiroplasma_melliferum	Bacteria;Terrabacteria group;Tenericutes	PRJNA435428	GCA_005222125.1	1.41237	27.0611
+Nonlabens_dokdonensis_DSW-6	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA33015	GCA_000332115.1	3.91463	35.3
+Thermovirga_lienii_DSM_17291	Bacteria;Synergistetes;Synergistia	PRJNA33163	GCA_000233775.1	1.99965	47.1032
+Shimwellia_blattae_DSM_4481_=_NBRC_105725	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA36307	GCA_000262305.1	4.15872	56.5
+Aerococcus_christensenii	Bacteria;Terrabacteria group;Firmicutes	PRJNA308559	GCA_001543105.1	1.63492	39.2
+Azospira_oryzae_PS	Bacteria;Proteobacteria;Betaproteobacteria	PRJNA37693	GCA_000236665.1	3.80698	65.4
+Rubrobacter_radiotolerans	Bacteria;Terrabacteria group;Actinobacteria	PRJNA241417	GCA_000661895.1	3.26723	66.7537
+Chroococcidiopsis_thermalis_PCC_7203	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA38119	GCA_000317125.1	6.6894	44.4387
+Desulfobacula_toluolica_Tol2	Bacteria;Proteobacteria;delta/epsilon subdivisions	PRJEA38433	GCA_000307105.1	5.19791	41.4
+Rickettsia_japonica_YH	Bacteria;Proteobacteria;Alphaproteobacteria	PRJDA38487	GCA_000283595.1	1.28309	32.4
+Anaerostipes_hadrus	Bacteria;Terrabacteria group;Firmicutes	PRJNA244280	GCA_001998765.1	3.17261	37.3
+Flavonifractor_plautii	Bacteria;Terrabacteria group;Firmicutes	PRJNA317592	GCA_001688625.2	3.81848	60.9
+Alistipes_finegoldii_DSM_17242	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA40775	GCA_000265365.1	3.73424	56.6
+Actinomyces_israelii	Bacteria;Terrabacteria group;Actinobacteria	PRJEB6403	GCA_900637225.1	2.573	64.1
+Bacillus_simplex	Bacteria;Terrabacteria group;Firmicutes	PRJNA276291	GCA_001578185.1	5.52172	39.7883
+Methylobacterium_oryzae_CBMB20	Bacteria;Proteobacteria;Alphaproteobacteria	PRJNA41901	GCA_000757795.1	6.28663	69.8
+Actinobacillus_suis_ATCC_33415	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA46463	GCA_000739435.1	2.5016	40.2
+Amphibacillus_xylanus_NBRC_15112	Bacteria;Terrabacteria group;Firmicutes	PRJNA42371	GCA_000307165.1	2.56949	35.7
+Streptococcus_ratti	Bacteria;Terrabacteria group;Firmicutes	PRJNA562290	GCA_008803015.1	2.09694	40.9
+Pediococcus_claussenii_ATCC_BAA-344	Bacteria;Terrabacteria group;Firmicutes	PRJNA42741	GCA_000237995.2	1.97879	36.999
+Caldisericum_exile_AZM16c01	Bacteria;Caldiserica/Cryosericota group;Caldiserica	PRJNA41615	GCA_000284335.1	1.5581	35.4
+Oscillibacter_valericigenes_Sjm18-20	Bacteria;Terrabacteria group;Firmicutes	PRJNA41823	GCA_000283575.1	4.47062	53.1645
+Anabaena_cylindrica_PCC_7122	Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	PRJNA43355	GCA_000317695.1	7.06328	38.7952
+Pontibacter_actiniarum	Bacteria;FCB group;Bacteroidetes/Chlorobi group	PRJNA386053	GCA_003585765.1	4.9748	53.1319
+Arsenophonus_nasoniae	Bacteria;Proteobacteria;Gammaproteobacteria	PRJNA529362	GCA_004768525.1	4.98711	38.7659
+Pseudomonas_viridiflava	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB20965	GCA_900184295.1	6.09351	59.2
