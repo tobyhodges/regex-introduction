@@ -64,7 +64,7 @@ _Note: Here, we will discuss only characters that fall inside the ASCII set - a 
 > 
 > 	iv) [A-Z][aeiou]*2;d
 > ``` 
-> c) Try playing around with the character ranges that you have learned above. What does `[A-z]` evauluate to? What about `[a-Z]`? Can you create a range that covers all letter and number characters?
+> c) Try playing around with the character ranges that you have learned above. What does `[A-z]` evaluate to? What about `[a-Z]`? Can you create a range that covers all letter and number characters?
 
 Ranges don't have to include the whole alphabet or every digit - we can match only the second half of the alphabet with
 
