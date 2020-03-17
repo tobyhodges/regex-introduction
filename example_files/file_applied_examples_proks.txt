@@ -1,4 +1,4 @@
-#Organism_name	Organism_groups	BioProject	Assembly	Size(Mb)	GC%
+Organism_name	Organism_groups	BioProject	Assembly	Size_in_Mb	GC_percent
 Pseudomonas_fluorescens	Bacteria;Proteobacteria;Gammaproteobacteria	PRJEB6403	GCA_900475215.1	6.51517	60
 Clostridium_perfringens_ATCC_13124	Bacteria;Terrabacteria group;Firmicutes	PRJNA304	GCA_000013285.1	3.25668	28.4
 Mycobacterium_avium_subsp._paratuberculosis_K-10	Bacteria;Terrabacteria group;Actinobacteria	PRJNA91	GCA_000007865.1	4.82978	69.3
