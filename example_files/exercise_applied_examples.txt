@@ -14,4 +14,4 @@ Organism_name	Class	Phylum
 Pseudomonas_fluorescens	Gammaproteobacteria	Proteobacteria
 
 
-4. Extract all ids from assembly column which do not contain PRJNA using alternatine matching
+4. Extract all ids from bioproject column which do not contain PRJNA using alternatine matching
