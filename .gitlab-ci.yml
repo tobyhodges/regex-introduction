@@ -1,0 +1,21 @@
+image: node:15
+
+variables:
+  LC_ALL: "C.UTF-8"
+  MAKEFLAGS: "-j 8"
+
+pages:
+  stage: deploy
+  script:
+    - echo 'prefix = ${HOME}/.npm-packages' > ~/.npmrc
+    - npm install -g gitbook-cli@2.3.0
+    - cd ~/.npm-packages/lib/node_modules/gitbook-cli/node_modules/npm
+    - npm install graceful-fs@4.2.0 --save
+    - cd -
+    - ~/.npm-packages/bin/gitbook build .
+    - mv _book public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
