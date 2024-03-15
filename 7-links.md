@@ -4,3 +4,4 @@
 - [Regex Crossword](https://regexcrossword.com) - play crosswords with regular expressions. Provides very good practise.
 - [regex101](https://regex101.com/) - feature-rich regular expression tester / explorer
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex) - curated list of regex resources
+- [Cyrilex](https://extendsclass.com/regex-tester.html) - regular expression tester / visualizer
